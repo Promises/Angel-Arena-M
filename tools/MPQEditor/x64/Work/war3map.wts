@@ -1,0 +1,7254 @@
+﻿STRING 21
+{
+Wintermaul Reforged 0.23a
+}
+
+STRING 22
+{
+9
+}
+
+STRING 23
+{
+A streamlined remake of the original wintermaul aimed at reducing completion time and increasing difficulty. Takes <40 minutes to beat.
+}
+
+STRING 24
+{
+Vacant#0001
+}
+
+STRING 25
+{
+Player 1
+}
+
+STRING 26
+{
+Player 2
+}
+
+STRING 27
+{
+Player 3
+}
+
+STRING 28
+{
+Player 4
+}
+
+STRING 29
+{
+Player 5
+}
+
+STRING 30
+{
+Player 6
+}
+
+STRING 31
+{
+Player 7
+}
+
+STRING 32
+{
+Player 8
+}
+
+STRING 33
+{
+Player 9
+}
+
+STRING 34
+{
+Northrend
+}
+
+STRING 35
+{
+Defenders
+}
+
+STRING 36
+// Units: u001 (Crystal Molder), Name (Name)
+{
+Crystal Molder
+}
+
+STRING 39
+// Units: u000 (Water Elemental), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 40
+// Units: h00I (Crystal Shooter), Name (Name)
+{
+Crystal Shooter
+}
+
+STRING 41
+// Units: u001 (Crystal Molder), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 42
+// Abilities: A000 (Prod), Name (Name)
+{
+Prod
+}
+
+STRING 43
+// Abilities: A000 (Prod), Ubertip (Tooltip - Normal - Extended)
+{
+Makes an enemy Move.
+}
+
+STRING 45
+// Abilities: A000 (Prod), EditorSuffix (Editor Suffix)
+{
+Worker
+}
+
+STRING 47
+// Abilities: A00F (Sell Tower), Ubertip (Tooltip - Normal - Extended)
+{
+|c0000cdf9Sell this tower back for 75% of what you paid|r
+}
+
+STRING 48
+{
+Wave 1 begins in...
+}
+
+STRING 49
+// Units: h001 (Defenders), Name (Name)
+{
+Defenders
+}
+
+STRING 54
+{
+Vote for difficulty...
+}
+
+STRING 55
+{
+|cff00ff00Easy - 100%|r
+}
+
+STRING 56
+{
+|cffffff00Normal - 150%|r
+}
+
+STRING 57
+{
+|cffff0000Hard - 200%|r
+}
+
+STRING 58
+{
+|cff800000Insane - 250%|r
+}
+
+STRING 59
+{
+|c0000cdf9Difficulty set to |r|cff00ff00easy|r|c0000cdf9.|r
+}
+
+STRING 63
+// Units: u002 (Electrician), Name (Name)
+{
+Electrician
+}
+
+STRING 66
+// Units: u003 (Pyromaniac), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 71
+// Units: u005 (Snow Owl), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 72
+// Units: u003 (Pyromaniac), Name (Name)
+{
+Pyromaniac
+}
+
+STRING 75
+// Units: u008 (Technician), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 76
+// Units: u004 (Poisoned Apprentice), Name (Name)
+{
+Poisoned Apprentice
+}
+
+STRING 79
+// Units: u004 (Poisoned Apprentice), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 80
+// Units: u005 (Snow Owl), Name (Name)
+{
+Snow Owl
+}
+
+STRING 83
+// Units: u002 (Electrician), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 87
+// Units: e001 (Crystal Dissolver), Hotkey (Hotkey)
+{
+F
+}
+
+STRING 88
+// Units: u007 (Wind Spirit), Name (Name)
+{
+Wind Spirit
+}
+
+STRING 92
+// Units: u008 (Technician), Name (Name)
+{
+Technician
+}
+
+STRING 95
+// Units: u006 (Stone Golem), Hotkey (Hotkey)
+{
+D
+}
+
+STRING 101
+// Units: u00A (Random), Name (Name)
+{
+Random
+}
+
+STRING 104
+// Units: u00A (Random), Hotkey (Hotkey)
+{
+V
+}
+
+STRING 106
+// Units: u001 (Crystal Molder), Tip (Tooltip - Basic)
+{
+|cffffcc00Q|r - Train Crystal Molder
+}
+
+STRING 109
+// Units: u004 (Poisoned Apprentice), Tip (Tooltip - Basic)
+{
+|cffffcc00A|r - Train Poisoned Apprentice
+}
+
+STRING 114
+// Units: u00A (Random), Tip (Tooltip - Basic)
+{
+|cffffcc00V|r - Random
+}
+
+STRING 115
+{
+Defeat!
+}
+
+STRING 116
+{
+Defeat!
+}
+
+STRING 117
+{
+Defeat!
+}
+
+STRING 118
+{
+Defeat!
+}
+
+STRING 119
+{
+Defeat!
+}
+
+STRING 120
+{
+Defeat!
+}
+
+STRING 121
+{
+Defeat!
+}
+
+STRING 122
+{
+Defeat!
+}
+
+STRING 123
+{
+Defeat!
+}
+
+STRING 133
+// Units: h003 (Engineer), Name (Name)
+{
+Engineer
+}
+
+STRING 134
+// Units: h004 (Scout), Name (Name)
+{
+Scout
+}
+
+STRING 135
+// Units: h005 (Night Ranger), Name (Name)
+{
+Night Ranger
+}
+
+STRING 136
+// Units: h006 (Barbarian), Name (Name)
+{
+Barbarian
+}
+
+STRING 137
+// Units: h007 (Baby Dragon), Name (Name)
+{
+Baby Dragon
+}
+
+STRING 138
+{
+|c0000cdf9Difficulty set to |r|cffffff00normal|r|c0000cdf9.|r
+}
+
+STRING 139
+{
+|c0000cdf9Difficulty set to |r|cffff0000hard|r|c0000cdf9.|r
+}
+
+STRING 140
+{
+|c0000cdf9Difficulty set to |r|cff800000insane|r|c0000cdf9.|r
+}
+
+STRING 141
+{
+|c0000cdf9Air levels are |r5|c0000cdf9(Fortified), |r14|c0000cdf9(Heavy), |r23|c0000cdf9(Medium), and |r28|c0000cdf9(Medium).|r
+}
+
+STRING 142
+{
+|cff008000You received one additional lumber for making it to wave 15.|r
+}
+
+STRING 143
+// Abilities: A000 (Prod), Tip (Tooltip - Normal)
+{
+|cffffcc00X|r Prod
+}
+
+STRING 144
+// Units: u00G (Satan), Hotkey (Hotkey)
+{
+X
+}
+
+STRING 145
+// Abilities: A001 (Blink), Hotkey (Hotkey - Normal)
+{
+C
+}
+
+STRING 146
+// Abilities: A001 (Blink), Tip (Tooltip - Normal)
+{
+|cffffcc00C|r Blink
+}
+
+STRING 147
+// Abilities: A001 (Blink), Ubertip (Tooltip - Normal - Extended)
+{
+Teleports the user to the targetted point.
+}
+
+STRING 148
+// Units: h008 (Stalker), Name (Name)
+{
+Stalker
+}
+
+STRING 149
+// Units: h009 (Water Runner), Name (Name)
+{
+Water Runner
+}
+
+STRING 150
+// Units: h00A (Ice Troll), Name (Name)
+{
+Ice Troll
+}
+
+STRING 151
+// Units: h00B (Wolf Rider), Name (Name)
+{
+Wolf Rider
+}
+
+STRING 152
+// Units: h00C (Hovercraft), Name (Name)
+{
+Hovercraft
+}
+
+STRING 153
+// Units: h00D (Frosty Reptile), Name (Name)
+{
+Frosty Reptile
+}
+
+STRING 154
+// Units: h00E (Ice Shard Golem), Name (Name)
+{
+Ice Shard Golem
+}
+
+STRING 155
+// Units: h00F (Demonic Beast), Name (Name)
+{
+Demonic Beast
+}
+
+STRING 156
+// Units: h00G (Matured Dragon), Name (Name)
+{
+Matured Dragon
+}
+
+STRING 157
+// Units: h00H (Supply Tank), Name (Name)
+{
+Supply Tank
+}
+
+STRING 158
+// Units: h00I (Crystal Shooter), Tip (Tooltip - Basic)
+{
+|cffffcc00Q|r - Build Crystal Shooter
+}
+
+STRING 160
+// Units: h000 (Crystal Blaster), Name (Name)
+{
+Crystal Blaster
+}
+
+STRING 161
+// Units: h000 (Crystal Blaster), Tip (Tooltip - Basic)
+{
+|cffffcc00W|r - Build Crystal Blaster
+}
+
+STRING 163
+// Units: u007 (Wind Spirit), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 164
+// Units: h00J (Crystal Fury), Name (Name)
+{
+Crystal Fury
+}
+
+STRING 165
+// Units: h00J (Crystal Fury), Tip (Tooltip - Basic)
+{
+|cffffcc00E|r - Build Crystal Fury
+}
+
+STRING 167
+// Units: h00J (Crystal Fury), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 168
+// Units: h00K (Upgraded Crystal Fury), Name (Name)
+{
+Upgraded Crystal Fury
+}
+
+STRING 169
+// Units: h00K (Upgraded Crystal Fury), Tip (Tooltip - Basic)
+{
+|cffffcc00U|r - Upgrade
+}
+
+STRING 171
+// Units: h00K (Upgraded Crystal Fury), Hotkey (Hotkey)
+{
+U
+}
+
+STRING 174
+// Units: h002 (Crystal Slower), Tip (Tooltip - Basic)
+{
+|cffffcc00R|r - Build Crystal Slower
+}
+
+STRING 176
+// Units: h002 (Crystal Slower), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 177
+// Units: h002 (Crystal Slower), Name (Name)
+{
+Crystal Slower
+}
+
+STRING 179
+// Units: e001 (Crystal Dissolver), Name (Name)
+{
+Crystal Dissolver
+}
+
+STRING 180
+// Units: e001 (Crystal Dissolver), Tip (Tooltip - Basic)
+{
+|cffffcc00F|r - Build Crystal Dissolver
+}
+
+STRING 181
+// Units: o002 (Flame Staff), Hotkey (Hotkey)
+{
+F
+}
+
+STRING 184
+// Units: o000 (Crystal Buster), Name (Name)
+{
+Crystal Buster
+}
+
+STRING 185
+// Units: o000 (Crystal Buster), Tip (Tooltip - Basic)
+{
+|cffffcc00A|r - Build Crystal Buster
+}
+
+STRING 186
+// Units: o000 (Crystal Buster), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 188
+// Units: e000 (Crystal Spirit), Name (Name)
+{
+Crystal Spirit
+}
+
+STRING 189
+// Units: e000 (Crystal Spirit), Tip (Tooltip - Basic)
+{
+|cffffcc00D|r - Build Crystal Spirit
+}
+
+STRING 190
+// Units: e000 (Crystal Spirit), Hotkey (Hotkey)
+{
+D
+}
+
+STRING 198
+// Abilities: A003 ([Crystal Spirit] Lesser Spirits), Name (Name)
+{
+[Crystal Spirit] Lesser Spirits
+}
+
+STRING 199
+// Abilities: A003 ([Crystal Spirit] Lesser Spirits), Tip (Tooltip - Normal)
+{
+Lesser Spirits
+}
+
+STRING 201
+// Units: o001 (Crystal), Name (Name)
+{
+Crystal
+}
+
+STRING 202
+// Units: o001 (Crystal), Tip (Tooltip - Basic)
+{
+|cffffcc00S|r - Build Crystal
+}
+
+STRING 203
+// Units: o001 (Crystal), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 206
+// Abilities: A002 ([Crystal] Luminous Aura), Name (Name)
+{
+[Crystal] Luminous Aura
+}
+
+STRING 208
+// Abilities: A002 ([Crystal] Luminous Aura), Tip (Tooltip - Normal)
+{
+Luminous Aura
+}
+
+STRING 209
+// Buffs/Effects: B005 (Luminous Aura), EditorName (Name (Editor Only))
+{
+Luminous Aura
+}
+
+STRING 210
+// Buffs/Effects: B005 (Luminous Aura), Buffubertip (Tooltip - Extended)
+{
+This unit is under the effects of Luminous Aura; it has an increased attack rate.
+}
+
+STRING 211
+// Buffs/Effects: B005 (Luminous Aura), Bufftip (Tooltip)
+{
+Luminous Aura
+}
+
+STRING 212
+// Abilities: A003 ([Crystal Spirit] Lesser Spirits), Ubertip (Tooltip - Normal - Extended)
+{
+Allows the Crystal Spirit to summon lesser spirits that deal damage to all units within 350 range.
+}
+
+STRING 214
+// Units: h00L (Flare Tower), Name (Name)
+{
+Flare Tower
+}
+
+STRING 215
+// Units: h00L (Flare Tower), Tip (Tooltip - Basic)
+{
+|cffffcc00Q|r - Build Flare Tower
+}
+
+STRING 216
+// Units: h00I (Crystal Shooter), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 218
+// Units: o002 (Flame Staff), Name (Name)
+{
+Flame Staff
+}
+
+STRING 222
+// Units: o002 (Flame Staff), Tip (Tooltip - Basic)
+{
+|cffffcc00F|r - Build Flame Staff
+}
+
+STRING 223
+// Units: o00B (Hydra), Hotkey (Hotkey)
+{
+F
+}
+
+STRING 225
+// Units: o003 (Roaring Fire Pit), Name (Name)
+{
+Roaring Fire Pit
+}
+
+STRING 226
+// Units: o003 (Roaring Fire Pit), Tip (Tooltip - Basic)
+{
+|cffffcc00U|r - Upgrade
+}
+
+STRING 228
+// Units: o003 (Roaring Fire Pit), Hotkey (Hotkey)
+{
+U
+}
+
+STRING 229
+// Units: o004 (Small Fire Pit), Name (Name)
+{
+Small Fire Pit
+}
+
+STRING 230
+// Units: o004 (Small Fire Pit), Tip (Tooltip - Basic)
+{
+|cffffcc00W|r - Build Small Fire Pit
+}
+
+STRING 232
+// Units: o005 (Fire Pit), Name (Name)
+{
+Fire Pit
+}
+
+STRING 233
+// Units: o005 (Fire Pit), Tip (Tooltip - Basic)
+{
+|cffffcc00U|r - Upgrade
+}
+
+STRING 235
+// Units: o005 (Fire Pit), Hotkey (Hotkey)
+{
+U
+}
+
+STRING 236
+// Abilities: A004 (Roaring Flame), Name (Name)
+{
+Roaring Flame
+}
+
+STRING 238
+// Abilities: A005 (Small Flame), Name (Name)
+{
+Small Flame
+}
+
+STRING 240
+// Abilities: A006 (Medium Flame), Name (Name)
+{
+Medium Flame
+}
+
+STRING 242
+// Buffs/Effects: B001 (Roaring Flame), EditorName (Name (Editor Only))
+{
+Roaring Flame
+}
+
+STRING 243
+// Buffs/Effects: B002 (Small Flame), EditorName (Name (Editor Only))
+{
+Small Flame
+}
+
+STRING 244
+// Buffs/Effects: B003 (Medium Flame), EditorName (Name (Editor Only))
+{
+Medium Flame
+}
+
+STRING 248
+// Buffs/Effects: B001 (Roaring Flame), Bufftip (Tooltip)
+{
+Roaring Flame
+}
+
+STRING 249
+// Buffs/Effects: B002 (Small Flame), Bufftip (Tooltip)
+{
+Small Flame
+}
+
+STRING 250
+// Buffs/Effects: B003 (Medium Flame), Bufftip (Tooltip)
+{
+Medium Flame
+}
+
+STRING 252
+// Units: o006 (Flame Dancer), Name (Name)
+{
+Flame Dancer
+}
+
+STRING 253
+// Units: o006 (Flame Dancer), Tip (Tooltip - Basic)
+{
+|cffffcc00E|r - Build Flame Dancer
+}
+
+STRING 254
+// Units: o006 (Flame Dancer), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 257
+// Units: o007 (Meteor Watcher), Name (Name)
+{
+Meteor Watcher
+}
+
+STRING 258
+// Units: o007 (Meteor Watcher), Tip (Tooltip - Basic)
+{
+|cffffcc00R|r - Build Meteor Watcher
+}
+
+STRING 259
+// Units: o007 (Meteor Watcher), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 263
+// Units: o008 (Blast Furnace), Name (Name)
+{
+Blast Furnace
+}
+
+STRING 264
+// Units: o008 (Blast Furnace), Tip (Tooltip - Basic)
+{
+|cffffcc00A|r - Build Blast Furnace
+}
+
+STRING 265
+// Units: o008 (Blast Furnace), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 268
+// Units: h00M (Incinerator), Name (Name)
+{
+Incinerator
+}
+
+STRING 269
+// Units: h00M (Incinerator), Tip (Tooltip - Basic)
+{
+|cffffcc00S|r - Build Incinerator
+}
+
+STRING 272
+// Units: h00M (Incinerator), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 275
+// Units: h00N (Meteor Caller), Hotkey (Hotkey)
+{
+D
+}
+
+STRING 279
+// Units: h00N (Meteor Caller), Name (Name)
+{
+Meteor Caller
+}
+
+STRING 280
+// Units: h00N (Meteor Caller), Tip (Tooltip - Basic)
+{
+|cffffcc00D|r - Build Meteor Caller
+}
+
+STRING 284
+// Units: h00O (Envenomed Spike), Name (Name)
+{
+Envenomed Spike
+}
+
+STRING 285
+// Units: h00O (Envenomed Spike), Tip (Tooltip - Basic)
+{
+|cffffcc00Q|r - Build Envenomed Spike
+}
+
+STRING 286
+// Units: h00L (Flare Tower), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 288
+// Abilities: A009 (Slow Poison), EditorSuffix (Editor Suffix)
+{
+[Poison]
+}
+
+STRING 290
+// Units: h00P (Poison Spire), Name (Name)
+{
+Poison Spire
+}
+
+STRING 292
+// Units: h000 (Crystal Blaster), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 294
+// Units: o009 (Sludge Flinger), Name (Name)
+{
+Sludge Flinger
+}
+
+STRING 295
+// Units: o009 (Sludge Flinger), Tip (Tooltip - Basic)
+{
+|cffffcc00E|r - Build Sludge Flinger
+}
+
+STRING 296
+// Units: o009 (Sludge Flinger), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 298
+// Units: h00Q (Poison Crawler), Name (Name)
+{
+Poison Crawler
+}
+
+STRING 299
+// Units: h00Q (Poison Crawler), Tip (Tooltip - Basic)
+{
+|cffffcc00A|r - Build Poison Crawler
+}
+
+STRING 300
+// Units: h00Q (Poison Crawler), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 306
+// Abilities: A009 (Slow Poison), Ubertip (Tooltip - Normal - Extended)
+{
+A poison attack that deals 5 damage per second, and slows the target enemy's movement by 50% for 5 seconds.
+}
+
+STRING 307
+// Abilities: A00B (Poison Cloud), Name (Name)
+{
+Poison Cloud
+}
+
+STRING 308
+// Abilities: A00B (Poison Cloud), Tip (Tooltip - Normal)
+{
+Poison Cloud
+}
+
+STRING 309
+// Units: h00R (Eternal Spirit), Name (Name)
+{
+Eternal Spirit
+}
+
+STRING 310
+// Units: h00S (Walking Corpse), Name (Name)
+{
+Walking Corpse
+}
+
+STRING 311
+// Units: h00T (Totem Carrier), Name (Name)
+{
+Totem Carrier
+}
+
+STRING 312
+// Units: h00U (Unholy Knight), Name (Name)
+{
+Unholy Knight
+}
+
+STRING 313
+// Units: h00V (Frozen Infernal), Name (Name)
+{
+Frozen Infernal
+}
+
+STRING 314
+// Units: h00W (Crystal Mage), Name (Name)
+{
+Crystal Mage
+}
+
+STRING 315
+// Units: h00X (Polar Bear), Name (Name)
+{
+Polar Bear
+}
+
+STRING 316
+// Units: h00Y (Possessed Hunter), Name (Name)
+{
+Possessed Hunter
+}
+
+STRING 317
+// Units: h00Z (Adult Dragon), Name (Name)
+{
+Adult Dragon
+}
+
+STRING 318
+// Units: h010 (Corrupt Chieftain), Name (Name)
+{
+Corrupt Chieftain
+}
+
+STRING 319
+// Units: h011 (Lich), Name (Name)
+{
+Lich
+}
+
+STRING 320
+// Units: h012 (Blademaster), Name (Name)
+{
+Blademaster
+}
+
+STRING 321
+// Units: h013 (Ancient Dragon), Name (Name)
+{
+Ancient Dragon
+}
+
+STRING 322
+// Units: h014 (Dreadlord), Name (Name)
+{
+Dreadlord
+}
+
+STRING 323
+// Units: h015 (Mountain King), Name (Name)
+{
+Mountain King
+}
+
+STRING 324
+// Units: h016 (Warden), Name (Name)
+{
+Warden
+}
+
+STRING 325
+// Units: h017 (Priestess), Name (Name)
+{
+Priestess
+}
+
+STRING 326
+// Units: h018 (Paladin), Name (Name)
+{
+Paladin
+}
+
+STRING 327
+// Units: h019 (Alchemist), Name (Name)
+{
+Alchemist
+}
+
+STRING 328
+// Units: h01A (Duke Wintermaul), Name (Name)
+{
+Duke Wintermaul
+}
+
+STRING 329
+// Units: o00A (Slime Sprayer), Name (Name)
+{
+Slime Sprayer
+}
+
+STRING 330
+// Units: o00A (Slime Sprayer), Tip (Tooltip - Basic)
+{
+|cffffcc00R|r - Build Slime Sprayer
+}
+
+STRING 331
+// Units: o00A (Slime Sprayer), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 333
+// Abilities: A00A (Corrosive Slime), Name (Name)
+{
+Corrosive Slime
+}
+
+STRING 334
+// Abilities: A00A (Corrosive Slime), Tip (Tooltip - Normal)
+{
+Corrosive Slime
+}
+
+STRING 335
+// Abilities: A00A (Corrosive Slime), Ubertip (Tooltip - Normal - Extended)
+{
+Sprays a corrosive chemical on enemies lowering their armour by 5.
+}
+
+STRING 337
+// Units: h01B (Rotting Corpse), Name (Name)
+{
+Rotting Corpse
+}
+
+STRING 338
+// Units: h01B (Rotting Corpse), Tip (Tooltip - Basic)
+{
+|cffffcc00S|r - Build Rotting Corpse
+}
+
+STRING 339
+// Units: h01B (Rotting Corpse), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 342
+// Buffs/Effects: B004 (Poison), EditorName (Name (Editor Only))
+{
+Poison
+}
+
+STRING 343
+// Buffs/Effects: B004 (Poison), Buffubertip (Tooltip - Extended)
+{
+This unit is poisoned; it will take damage over time.
+}
+
+STRING 344
+// Buffs/Effects: B004 (Poison), Bufftip (Tooltip)
+{
+Poison
+}
+
+STRING 345
+// Units: h00P (Poison Spire), Tip (Tooltip - Basic)
+{
+|cffffcc00W|r - Build Poison Spire
+}
+
+STRING 346
+// Units: o00B (Hydra), Name (Name)
+{
+Hydra
+}
+
+STRING 347
+// Units: o00B (Hydra), Tip (Tooltip - Basic)
+{
+|cffffcc00F|r - Build Hydra
+}
+
+STRING 348
+// Units: u00B (Treant), Hotkey (Hotkey)
+{
+F
+}
+
+STRING 350
+// Abilities: A008 (Slow Poison), EditorSuffix (Editor Suffix)
+{
+[Hydra]
+}
+
+STRING 351
+// Abilities: A008 (Slow Poison), Ubertip (Tooltip - Normal - Extended)
+{
+A poison attack that deals 50 damage per second, and slows the target enemy's movement by 75% for 5 seconds.
+}
+
+STRING 352
+{
+Defeat!
+}
+
+STRING 353
+{
+Defeat!
+}
+
+STRING 354
+{
+Defeat!
+}
+
+STRING 355
+{
+Defeat!
+}
+
+STRING 356
+{
+Defeat!
+}
+
+STRING 357
+{
+Defeat!
+}
+
+STRING 358
+{
+Defeat!
+}
+
+STRING 359
+{
+Defeat!
+}
+
+STRING 360
+{
+Defeat!
+}
+
+STRING 361
+// Units: o00C (Gas Chamber), Name (Name)
+{
+Gas Chamber
+}
+
+STRING 362
+// Units: o00C (Gas Chamber), Tip (Tooltip - Basic)
+{
+|cffffcc00D|r - Build Gas Chamber
+}
+
+STRING 363
+// Units: o00C (Gas Chamber), Hotkey (Hotkey)
+{
+D
+}
+
+STRING 366
+// Units: o00D (Icicle Tosser), Name (Name)
+{
+Icicle Tosser
+}
+
+STRING 368
+// Units: h00O (Envenomed Spike), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 372
+// Units: u004 (Poisoned Apprentice), Ubertip (Tooltip - Extended)
+{
+Summons poison towers. |cFF00FF00Chaos|r | |cFFDC143CSingle Target|r | |cFFFF99FFSlow|r
+}
+
+STRING 379
+// Abilities: A00C (Slow Poison), EditorSuffix (Editor Suffix)
+{
+[Poison]
+}
+
+STRING 380
+// Abilities: A00C (Slow Poison), Ubertip (Tooltip - Normal - Extended)
+{
+A poison attack that deals 5 damage per second, and slows the target enemy's movement by 50% for 5 seconds.
+}
+
+STRING 382
+// Units: u000 (Water Elemental), Ubertip (Tooltip - Extended)
+{
+Summons water towers. |cFF3399FFMagic|r | |cFF00FFFFBounce|r
+}
+
+STRING 383
+// Units: u001 (Crystal Molder), Ubertip (Tooltip - Extended)
+{
+Summons crystal towers. |cFF00FF00Chaos|r | |cFFFFFF00Splash|r
+}
+
+STRING 385
+// Units: u003 (Pyromaniac), Ubertip (Tooltip - Extended)
+{
+Summons fire towers. |cFFFF0000Pierce|r | |cFFFFFF00Splash|r
+}
+
+STRING 386
+// Units: u005 (Snow Owl), Ubertip (Tooltip - Extended)
+{
+Summons ice towers. |cFF3399FFMagic|r | |cFFFFFF00Splash|r | |cFFFF99FFSlow|r
+}
+
+STRING 387
+// Units: u00B (Treant), Ubertip (Tooltip - Extended)
+{
+Summons earth towers. |cFFAAAAAASiege|r | |cFFFFFF00Splash|r
+}
+
+STRING 388
+// Units: u007 (Wind Spirit), Ubertip (Tooltip - Extended)
+{
+Summons wind towers. |cFF00FF00Chaos|r | |cFF00FFFFBounce|r
+}
+
+STRING 394
+// Units: h01C (Snowball Launcher), Name (Name)
+{
+Snowball Launcher
+}
+
+STRING 397
+// Units: h00P (Poison Spire), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 398
+// Units: o00E (Blizzard Master), Name (Name)
+{
+Blizzard Master
+}
+
+STRING 400
+// Units: h01C (Snowball Launcher), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 402
+// Units: h01D (Arrow Tower), Tip (Tooltip - Basic)
+{
+|cffffcc00Q|r - Build Arrow Tower
+}
+
+STRING 404
+// Units: h01D (Arrow Tower), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 405
+// Units: h01D (Arrow Tower), Name (Name)
+{
+Arrow Tower
+}
+
+STRING 406
+// Units: h01E (Cannon Tower), Tip (Tooltip - Basic)
+{
+|cffffcc00W|r - Build Cannon Tower
+}
+
+STRING 409
+// Units: h01E (Cannon Tower), Name (Name)
+{
+Cannon Tower
+}
+
+STRING 410
+// Units: h01F (Marine), Tip (Tooltip - Basic)
+{
+|cffffcc00E|r - Build Marine
+}
+
+STRING 412
+// Units: h01F (Marine), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 413
+// Units: h01F (Marine), Name (Name)
+{
+Marine
+}
+
+STRING 414
+// Units: h01G (Arcane Tower), Tip (Tooltip - Basic)
+{
+|cffffcc00R|r - Build Arcane Tower
+}
+
+STRING 416
+// Units: o00E (Blizzard Master), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 417
+// Units: h01G (Arcane Tower), Name (Name)
+{
+Arcane Tower
+}
+
+STRING 418
+// Abilities: A00E ([Arcane Tower] Multishot), Ubertip (Tooltip - Normal - Extended)
+{
+Allows the arcane tower to hit up to 4 nearby units with each attack.
+}
+
+STRING 419
+// Abilities: A00E ([Arcane Tower] Multishot), Name (Name)
+{
+[Arcane Tower] Multishot
+}
+
+STRING 420
+// Abilities: A00E ([Arcane Tower] Multishot), Tip (Tooltip - Normal)
+{
+Multishot
+}
+
+STRING 421
+// Units: o00F (Factory), Name (Name)
+{
+Factory
+}
+
+STRING 422
+// Units: o00F (Factory), Tip (Tooltip - Basic)
+{
+|cffffcc00A|r - Build Factory
+}
+
+STRING 423
+// Units: o00F (Factory), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 425
+// Abilities: A00F (Sell Tower), Name (Name)
+{
+Sell Tower
+}
+
+STRING 427
+// Abilities: A00F (Sell Tower), Tip (Tooltip - Normal)
+{
+Sell Tower
+}
+
+STRING 428
+// Abilities: A00H ([Tech] Production Line), Name (Name)
+{
+[Tech] Production Line
+}
+
+STRING 430
+// Abilities: A00H ([Tech] Production Line), Tip (Tooltip - Normal)
+{
+Production Line
+}
+
+STRING 431
+// Abilities: A00G ([Tech] Production Line), Name (Name)
+{
+[Tech] Production Line
+}
+
+STRING 432
+// Abilities: A00G ([Tech] Production Line), Tip (Tooltip - Normal)
+{
+Production Line
+}
+
+STRING 434
+// Buffs/Effects: B000 ([S] Production Line), EditorName (Name (Editor Only))
+{
+[S] Production Line
+}
+
+STRING 435
+// Buffs/Effects: B000 ([S] Production Line), Buffubertip (Tooltip - Extended)
+{
+This unit is under the effects of Production Line; it has an increased attack rate.
+}
+
+STRING 436
+// Buffs/Effects: B000 ([S] Production Line), Bufftip (Tooltip)
+{
+Production Line
+}
+
+STRING 437
+// Buffs/Effects: B006 ([D] Production Line), EditorName (Name (Editor Only))
+{
+[D] Production Line
+}
+
+STRING 438
+// Buffs/Effects: B006 ([D] Production Line), Buffubertip (Tooltip - Extended)
+{
+This unit is under the effects of Production Line; it has increased attack damage.
+}
+
+STRING 439
+// Buffs/Effects: B006 ([D] Production Line), Bufftip (Tooltip)
+{
+Production Line
+}
+
+STRING 440
+// Units: h01H (Helipad), Tip (Tooltip - Basic)
+{
+|cffffcc00S|r - Build Helipad
+}
+
+STRING 442
+// Units: h01H (Helipad), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 443
+// Units: h01H (Helipad), Name (Name)
+{
+Helipad
+}
+
+STRING 444
+// Abilities: A00I ([Tech] Launch), Name (Name)
+{
+[Tech] Launch
+}
+
+STRING 445
+// Abilities: A00I ([Tech] Launch), Tip (Tooltip - Normal)
+{
+Launch
+}
+
+STRING 447
+// Units: u00C (Helicopter), EditorSuffix (Name - Editor Suffix)
+{
+[Tech]
+}
+
+STRING 448
+// Units: u00C (Helicopter), Name (Name)
+{
+Helicopter
+}
+
+STRING 449
+// Units: h01I (Missile Silo), Tip (Tooltip - Basic)
+{
+|cffffcc00D|r - Build Missile Silo
+}
+
+STRING 450
+// Units: h01I (Missile Silo), Hotkey (Hotkey)
+{
+D
+}
+
+STRING 451
+// Units: h01I (Missile Silo), Name (Name)
+{
+Missile Silo
+}
+
+STRING 452
+// Units: h01J (Ion Cannon), Tip (Tooltip - Basic)
+{
+|cffffcc00F|r - Build Ion Cannon
+}
+
+STRING 454
+// Units: h01J (Ion Cannon), Hotkey (Hotkey)
+{
+F
+}
+
+STRING 455
+// Units: h01J (Ion Cannon), Name (Name)
+{
+Ion Cannon
+}
+
+STRING 457
+// Abilities: A01F (Meteor Shower), Ubertip (Tooltip - Normal - Extended)
+{
+Calls down a meteor shower. Deals 800 initial damage and 400 damage per second for 2 seconds.
+}
+
+STRING 460
+// Abilities: A00B (Poison Cloud), Ubertip (Tooltip - Normal - Extended)
+{
+Infects nearby enemy units with Poison Cloud. Poison Cloud deals 400 damage per second for 2 seconds.
+}
+
+STRING 461
+// Abilities: A004 (Roaring Flame), Ubertip (Tooltip - Normal - Extended)
+{
+Burns nearby enemy units for 250 points of damage per second.
+}
+
+STRING 462
+// Abilities: A005 (Small Flame), Ubertip (Tooltip - Normal - Extended)
+{
+Burns nearby enemy units for 40 points of damage per second.
+}
+
+STRING 463
+// Abilities: A006 (Medium Flame), Ubertip (Tooltip - Normal - Extended)
+{
+Burns nearby enemy units for 115 points of damage per second.
+}
+
+STRING 464
+// Units: h01K (Cold Exploder), Name (Name)
+{
+Cold Exploder
+}
+
+STRING 467
+// Units: h01L (Nova Creator), Name (Name)
+{
+Nova Creator
+}
+
+STRING 472
+// Units: o00G (Snowman), Name (Name)
+{
+Snowman
+}
+
+STRING 473
+// Units: o00G (Snowman), Tip (Tooltip - Basic)
+{
+|cffffcc00Q|r - Build Snowman
+}
+
+STRING 475
+// Units: o00G (Snowman), Ubertip (Tooltip - Extended)
+{
+A cheap mazing tower. Sells for full value.
+}
+
+STRING 476
+// Units: o00D (Icicle Tosser), Tip (Tooltip - Basic)
+{
+|cffffcc00W|r - Build Icicle Tosser
+}
+
+STRING 477
+// Units: h01C (Snowball Launcher), Tip (Tooltip - Basic)
+{
+|cffffcc00E|r - Build Snowball Launcher
+}
+
+STRING 478
+// Units: o00E (Blizzard Master), Tip (Tooltip - Basic)
+{
+|cffffcc00R|r - Build Blizzard Master
+}
+
+STRING 479
+// Units: h01G (Arcane Tower), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 480
+// Units: h01K (Cold Exploder), Tip (Tooltip - Basic)
+{
+|cffffcc00S|r - Build Cold Exploder
+}
+
+STRING 481
+// Units: h01K (Cold Exploder), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 482
+// Units: h01L (Nova Creator), Tip (Tooltip - Basic)
+{
+|cffffcc00F|r - Build Nova Creator
+}
+
+STRING 483
+// Units: h01L (Nova Creator), Hotkey (Hotkey)
+{
+F
+}
+
+STRING 484
+// Units: h01M (Ice Troll), Name (Name)
+{
+Ice Troll
+}
+
+STRING 485
+// Units: h01M (Ice Troll), Tip (Tooltip - Basic)
+{
+|cffffcc00A|r - Build Ice Troll
+}
+
+STRING 486
+// Units: h01M (Ice Troll), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 487
+// Units: o00H (Frost Wolf), Name (Name)
+{
+Frost Wolf
+}
+
+STRING 488
+// Units: o00H (Frost Wolf), Tip (Tooltip - Basic)
+{
+|cffffcc00D|r - Build Frost Wolf
+}
+
+STRING 490
+// Units: o00H (Frost Wolf), Hotkey (Hotkey)
+{
+D
+}
+
+STRING 494
+// Units: h01N (Shock Tower), Tip (Tooltip - Basic)
+{
+|cffffcc00Q|r - Build Shock Tower
+}
+
+STRING 495
+// Units: o00G (Snowman), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 496
+// Units: h01N (Shock Tower), Name (Name)
+{
+Shock Tower
+}
+
+STRING 498
+{
+Commands
+}
+
+STRING 499
+{
+|cff8080ff-air|r Displays information about the air levels in the map.
+|cff8080ff-claim|r Claims ownership of all towers in your zone.
+|cff8080ff-zoom <distance>|r Zooms your camera to the specified distance.
+|cff8080ff-give <player colour> <amount>|r Sends the specified player the amount of gold entered.
+|cff8080ff-boss|r Gives information on the final round.
+|cff8080ff-sell|r Sells all towers owned by you outside of your build area.
+|cffff0000[Disabled]|r|cff8080ff-open <colour>|r Allows you to open the spawn of the player directly above you if they've left the game/aren't playing.
+}
+
+STRING 500
+{
+Info
+}
+
+STRING 501
+{
+Version: |cff8080ff0.23 Alpha|r
+Creator: |cff8080ffVacant#0001@Discord|r
+Original Map by Duke Wintermaul
+
+Map balanced around |cffffff00normal|r difficulty.
+}
+
+STRING 502
+{
+|cff8080ffCongratulations on your victory. Game will end in 60 seconds. If you have any suggestions feel free to contact|r Vacant#0001 |cff8080ffon discord.|r
+}
+
+STRING 503
+// Units: h01O (Classic Races), Name (Name)
+{
+Classic Races
+}
+
+STRING 504
+// Units: h01O (Classic Races), Tip (Tooltip - Basic)
+{
+Race Chooser Building
+}
+
+STRING 505
+// Units: h01P (Custom Races (1)), Name (Name)
+{
+Custom Races (1)
+}
+
+STRING 506
+// Units: h01P (Custom Races (1)), Tip (Tooltip - Basic)
+{
+Race Chooser Building
+}
+
+STRING 507
+// Units: h01Q (Custom Races (2)), Name (Name)
+{
+Custom Races (2)
+}
+
+STRING 508
+// Units: h01Q (Custom Races (2)), Tip (Tooltip - Basic)
+{
+Race Chooser Building
+}
+
+STRING 509
+// Units: h01R (Special Races), Name (Name)
+{
+Special Races
+}
+
+STRING 510
+// Units: h01R (Special Races), Tip (Tooltip - Basic)
+{
+Race Chooser Building
+}
+
+STRING 511
+// Units: u008 (Technician), Ubertip (Tooltip - Extended)
+{
+Summons tech towers. |cFFFFEBCDHybrid|r | |cFFFFEBCDHybrid|r
+}
+
+STRING 512
+// Units: u000 (Water Elemental), Name (Name)
+{
+Water Elemental
+}
+
+STRING 513
+// Units: u000 (Water Elemental), Tip (Tooltip - Basic)
+{
+|cffffcc00Q|r - Train Water Elemental
+}
+
+STRING 514
+// Units: u002 (Electrician), Tip (Tooltip - Basic)
+{
+|cffffcc00S|r - Train Electrician
+}
+
+STRING 515
+// Units: u003 (Pyromaniac), Tip (Tooltip - Basic)
+{
+|cffffcc00W|r - Train Pyromaniac
+}
+
+STRING 516
+// Units: u005 (Snow Owl), Tip (Tooltip - Basic)
+{
+|cffffcc00E|r - Train Snow Owl
+}
+
+STRING 518
+// Units: u007 (Wind Spirit), Tip (Tooltip - Basic)
+{
+|cffffcc00W|r - Train Wind Spirit
+}
+
+STRING 519
+// Units: u008 (Technician), Tip (Tooltip - Basic)
+{
+|cffffcc00R|r - Train Technician
+}
+
+STRING 521
+// Units: h01E (Cannon Tower), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 522
+// Units: h01N (Shock Tower), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 523
+// Units: u00D (Hybrid), Name (Name)
+{
+Hybrid
+}
+
+STRING 524
+// Units: u00D (Hybrid), Tip (Tooltip - Basic)
+{
+|cffffcc00Q|r - Train Hybrid Builder
+}
+
+STRING 525
+// Units: u00D (Hybrid), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 526
+// Units: u009 (Summoner), Name (Name)
+{
+Summoner
+}
+
+STRING 527
+// Units: u009 (Summoner), Tip (Tooltip - Basic)
+{
+|cffffcc00E|r - Train Summoner
+}
+
+STRING 529
+// Units: u009 (Summoner), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 530
+// Units: u00E (Storm), Name (Name)
+{
+Storm
+}
+
+STRING 531
+// Units: u00E (Storm), Tip (Tooltip - Basic)
+{
+|cffffcc00R|r - Train Storm
+}
+
+STRING 532
+// Units: u00E (Storm), Ubertip (Tooltip - Extended)
+{
+Summons storm towers. |cFFFFEBCDHybrid|r | |cFFFFEBCDHybrid|r
+}
+
+STRING 533
+// Units: u00E (Storm), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 534
+// Units: u00F (Angel), Name (Name)
+{
+Angel
+}
+
+STRING 535
+// Units: u00F (Angel), Tip (Tooltip - Basic)
+{
+|cffffcc00Z|r - Train Angel
+}
+
+STRING 537
+// Units: u00F (Angel), Hotkey (Hotkey)
+{
+Z
+}
+
+STRING 538
+// Units: u00G (Satan), Name (Name)
+{
+Satan
+}
+
+STRING 539
+// Units: u00G (Satan), Tip (Tooltip - Basic)
+{
+|cffffcc00X|r - Train Satan
+}
+
+STRING 541
+// Abilities: A000 (Prod), Hotkey (Hotkey - Normal)
+{
+X
+}
+
+STRING 542
+// Units: h00J (Crystal Fury), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r | |cFFDC143CSingle Target|r|n|cff8080ffDamage: |r180-220|n|cff8080ffAttack Speed: |r0.33|n|cff8080ffRange: |r700|n|cff8080ffAbility: |rCritical Strike (20%, 2x)
+}
+
+STRING 545
+// Units: e001 (Crystal Dissolver), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r | |cFFFFFF00Splash|r (600)|n|cff8080ffDamage: |r390|n|cff8080ffAttack Speed: |r0.2|n|cff8080ffRange: |r800
+}
+
+STRING 546
+// Units: h00M (Incinerator), Ubertip (Tooltip - Extended)
+{
+|cFFFF0000Pierce|r | |cFFDC143CSingle Target|r|n|cff8080ffDamage: |r690|n|cff8080ffAttack Speed: |r0.2|n|cff8080ffRange: |r700
+}
+
+STRING 549
+// Abilities: A01F (Meteor Shower), Name (Name)
+{
+Meteor Shower
+}
+
+STRING 550
+// Abilities: A01F (Meteor Shower), Tip (Tooltip - Normal)
+{
+Meteor Shower
+}
+
+STRING 552
+// Units: h00K (Upgraded Crystal Fury), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r | |cFF00FFFFBounce|r (3)|n|cff8080ffDamage: |r180-230|n|cff8080ffAttack Speed: |r0.33|n|cff8080ffRange: |r1000|n|cff8080ffAbility: |rCritical Strike (20%, 2x)
+}
+
+STRING 553
+// Units: h01D (Arrow Tower), Ubertip (Tooltip - Extended)
+{
+|cFFFF0000Pierce|r | |cFFDC143CSingle Target|r|n|cff8080ffDamage: |r13-16|n|cff8080ffAttack Speed: |r0.7|n|cff8080ffRange: |r650
+}
+
+STRING 554
+// Units: h01E (Cannon Tower), Ubertip (Tooltip - Extended)
+{
+|cFFAAAAAASiege|r | |cFFFFFF00Splash|r (350)|n|cff8080ffDamage: |r69|n|cff8080ffAttack Speed: |r1.5|n|cff8080ffRange: |r750
+}
+
+STRING 555
+// Units: h01G (Arcane Tower), Ubertip (Tooltip - Extended)
+{
+|cFF3399FFMagic|r | |cFF00FFFF|cffd45e19Multishot|r (4)|n|cff8080ffDamage: |r360|n|cff8080ffAttack Speed: |r1|n|cff8080ffRange: |r800
+}
+
+STRING 556
+// Units: h00I (Crystal Shooter), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r | |cFFDC143CSingle Target|r|n|cff8080ffDamage: |r18-21|n|cff8080ffAttack Speed: |r1|n|cff8080ffRange: |r700
+}
+
+STRING 557
+// Units: h00L (Flare Tower), Ubertip (Tooltip - Extended)
+{
+|cFFFF0000Pierce|r | |cFFFFFF00Splash|r (100)|n|cff8080ffDamage: |r9-10|n|cff8080ffAttack Speed: |r0.4|n|cff8080ffRange: |r700
+}
+
+STRING 558
+// Units: h00O (Envenomed Spike), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r | |cFFDC143CSingle Target|r | |cFFFF99FFSlow|r|n|cff8080ffDamage: |r19|n|cff8080ffAttack Speed: |r1.10|n|cff8080ffRange: |r1000
+}
+
+STRING 560
+// Units: h01F (Marine), Ubertip (Tooltip - Extended)
+{
+Ground|n|cFFFF0000Pierce|r | |cFFDC143CSingle Target|r|n|cff8080ffDamage: |r60|n|cff8080ffAttack Speed: |r0.2|n|cff8080ffRange: |r1000|nAir|n|cFF00FF00Chaos|r | |cFFFFFF00Splash|r (500)|n|cff8080ffDamage: |r30|n|cff8080ffAttack Speed: |r0.2|n|cff8080ffRange: |r1000
+}
+
+STRING 561
+// Units: h01H (Helipad), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r | |cFFDC143CSingle Target|r|n|cff8080ffDamage: |r2475|n|cff8080ffRange: |r500|n|cff8080ffAbility: |rSummons 5 helicopters that roam in 500 AoE attacking nearby enemy units.
+}
+
+STRING 562
+// Units: h01J (Ion Cannon), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r | |cFFDC143CSingle Target|r|n|cff8080ffDamage: |r730|n|cff8080ffAttack Speed: |r0.08|n|cff8080ffRange: |r1500
+}
+
+STRING 563
+// Units: h000 (Crystal Blaster), Ubertip (Tooltip - Extended)
+{
+Ground|n|cFF00FF00Chaos|r | |cFFFFFF00Splash|r (300)|n|cff8080ffDamage: |r60-70|n|cff8080ffAttack Speed: |r1.2|n|cff8080ffRange: |r850|nAir|n|cFF00FF00Chaos|r | |cFFFFFF00Splash|r (300)|n|cff8080ffDamage: |r70|n|cff8080ffAttack Speed: |r0.9|n|cff8080ffRange: |r1000
+}
+
+STRING 564
+// Units: h00P (Poison Spire), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r | |cFFDC143CSingle Target|r | |cFFFF99FFSlow|r|n|cff8080ffDamage: |r85|n|cff8080ffAttack Speed: |r0.85|n|cff8080ffRange: |r1000
+}
+
+STRING 565
+// Units: h00Q (Poison Crawler), Ubertip (Tooltip - Extended)
+{
+|cff800080Spell|r|n|cff8080ffCooldown:|r 4s|n|cff8080ffRange: |r2000|n|cff8080ffAbility: |rHalves enemy units health on hit. (Effect lessens as game progresses.)
+}
+
+STRING 566
+// Units: h01B (Rotting Corpse), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r | |cFFDC143CSingle Target|r | |cFFFF99FFSlow|r|n|cff8080ffDamage: |r780|n|cff8080ffAttack Speed: |r0.2|n|cff8080ffRange: |rMelee|n|cff8080ffAbility: |rInfects nearby enemy units with Poison Cloud. Poison Cloud deals 400 damage per second for 2 seconds.
+}
+
+STRING 568
+// Units: h01I (Missile Silo), Ubertip (Tooltip - Extended)
+{
+|cFFAAAAAASiege|r | |cFFFFFF00Splash|r (850)|n|cff8080ffDamage: |r2700-3000|n|cff8080ffAttack Speed: |r2.5|n|cff8080ffRange: |r1250
+}
+
+STRING 571
+// Units: h01N (Shock Tower), Ubertip (Tooltip - Extended)
+{
+|cFFFFFFFFNormal|r | |cFFDC143CSingle Target|r|n|cff8080ffDamage: |r9|n|cff8080ffAttack Speed: |r0.25|n|cff8080ffRange: |r650
+}
+
+STRING 572
+// Units: o000 (Crystal Buster), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r | |cFFFFFF00Splash|r (360)|n|cff8080ffDamage: |r700|n|cff8080ffAttack Speed: |r1.1|n|cff8080ffRange: |r900
+}
+
+STRING 574
+// Units: o002 (Flame Staff), Ubertip (Tooltip - Extended)
+{
+|cFFFF0000Pierce|r | |cFFFFFF00Splash|r (400)|n|cff8080ffDamage: |r190|n|cff8080ffAttack Speed: |r0.08|n|cff8080ffRange: |r1000
+}
+
+STRING 575
+// Units: o003 (Roaring Fire Pit), Ubertip (Tooltip - Extended)
+{
+|cff800080Spell|r|n|cff8080ff|cff8080ffAbility: |rBurns nearby enemy units for 250 points of damage per second.|n|cff8080ffArea of Effect: |r600
+}
+
+STRING 576
+// Units: o004 (Small Fire Pit), Ubertip (Tooltip - Extended)
+{
+|cff800080Spell|r|n|cff8080ff|cff8080ffAbility: |rBurns nearby enemy units for 40 points of damage per second.|n|cff8080ffArea of Effect: |r400
+}
+
+STRING 577
+// Units: o005 (Fire Pit), Ubertip (Tooltip - Extended)
+{
+|cff800080Spell|r|n|cff8080ff|cff8080ffAbility: |rBurns nearby enemy units for 115 points of damage per second.|n|cff8080ffArea of Effect: |r500
+}
+
+STRING 578
+// Units: o006 (Flame Dancer), Ubertip (Tooltip - Extended)
+{
+|cFFFF0000Pierce|r | |cFFFFFF00Splash|r (210)|n|cff8080ffDamage: |r125-175|n|cff8080ffAttack Speed: |r1|n|cff8080ffRange: |r800
+}
+
+STRING 579
+// Units: o007 (Meteor Watcher), Ubertip (Tooltip - Extended)
+{
+|cFFFF0000Pierce|r | |cFFFFFF00Splash|r (300)|n|cff8080ffDamage: |r300-350|n|cff8080ffAttack Speed: |r1.05|n|cff8080ffRange: |r900
+}
+
+STRING 580
+// Units: o008 (Blast Furnace), Ubertip (Tooltip - Extended)
+{
+|cFFFF0000Pierce|r | |cFFFFFF00Splash|r (420)|n|cff8080ffDamage: |r575-625|n|cff8080ffAttack Speed: |r1|n|cff8080ffRange: |r900
+}
+
+STRING 581
+// Units: h00N (Meteor Caller), Ubertip (Tooltip - Extended)
+{
+|cff800080Spell|r|n|cff8080ffCooldown:|r 1s|n|cff8080ffRange: |r1000|n|cff8080ffAbility: |rMeteor Shower (Calls down a meteor shower dealing 800 initial damage and 400 damage per second for 2 seconds.)|n|cff8080ffArea of Effect: |r300
+}
+
+STRING 582
+// Units: o009 (Sludge Flinger), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r | |cFFFFFF00Splash|r (300)|n|cff8080ffDamage: |r125-175|n|cff8080ffAttack Speed: |r1.25|n|cff8080ffRange: |r1400
+}
+
+STRING 583
+// Units: o00A (Slime Sprayer), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r | |cFFFFFF00Splash|r (250)|n|cff8080ffDamage: |r50-100|n|cff8080ffAttack Speed: |r0.25|n|cff8080ffRange: |r1000|n|cff8080ffAbility: |rSprays a corrosive chemical on enemies lowering their armour by 5.
+}
+
+STRING 584
+// Units: o00B (Hydra), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r | |cFFDC143CSingle Target|r | |cFFFF99FFSlow|r|n|cff8080ffDamage: |r1800|n|cff8080ffAttack Speed: |r0.2|n|cff8080ffRange: |r1100
+}
+
+STRING 585
+// Units: o00C (Gas Chamber), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r | |cFFFFFF00Splash|r (300) | |cFFFF99FFSlow|r|n|cff8080ffDamage: |r750|n|cff8080ffAttack Speed: |r0.5|n|cff8080ffRange: |r1200
+}
+
+STRING 586
+// Units: o00D (Icicle Tosser), Ubertip (Tooltip - Extended)
+{
+|cFF3399FFMagic|r | |cFFDC143CSingle Target|r | |cFFFF99FFSlow|r|n|cff8080ffDamage: |r85|n|cff8080ffAttack Speed: |r1|n|cff8080ffRange: |r600
+}
+
+STRING 590
+// Units: h01S (Storm Caller), Tip (Tooltip - Basic)
+{
+|cffffcc00W|r - Build Storm Caller
+}
+
+STRING 592
+// Units: h01S (Storm Caller), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 593
+// Units: h01S (Storm Caller), Name (Name)
+{
+Storm Caller
+}
+
+STRING 594
+// Abilities: A00K ([Electricity] Lightning Shield), Tip (Tooltip - Normal)
+{
+Lightning Shield
+}
+
+STRING 595
+// Abilities: A00K ([Electricity] Lightning Shield), Name (Name)
+{
+[Electricity] Lightning Shield
+}
+
+STRING 596
+// Units: h01T (Lightning Caster), Tip (Tooltip - Basic)
+{
+|cffffcc00E|r - Build Lightning Caster
+}
+
+STRING 598
+// Units: h01T (Lightning Caster), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 599
+// Units: h01T (Lightning Caster), Name (Name)
+{
+Lightning Caster
+}
+
+STRING 600
+// Abilities: A00K ([Electricity] Lightning Shield), Ubertip (Tooltip - Normal - Extended)
+{
+Forms a shield of electricity around a target unit, dealing 125 damage per second to units around it. |nLasts 60 seconds.
+}
+
+STRING 601
+// Abilities: A00L ([Electricity] Chain Lightning), Name (Name)
+{
+[Electricity] Chain Lightning
+}
+
+STRING 603
+// Abilities: A00L ([Electricity] Chain Lightning), Ubertip (Tooltip - Normal - Extended)
+{
+Calls forth a bolt of lightning that bounces up to 6 times, dealing 250 damage on the primary target. Each jump deals less damage.
+}
+
+STRING 604
+// Units: u00H (Farmer), Name (Name)
+{
+Farmer
+}
+
+STRING 605
+// Units: u00H (Farmer), Tip (Tooltip - Basic)
+{
+|cffffcc00A|r - Train Farmer
+}
+
+STRING 607
+// Units: u00H (Farmer), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 608
+{
+|c0000cdf9You can only select |rhybrid|c0000cdf9!|r
+}
+
+STRING 616
+{
+|c0000cdf9Possible juggling attempt detected! You've been refunded the full cost of the tower.|r
+}
+
+STRING 618
+// Abilities: A00I ([Tech] Launch), Ubertip (Tooltip - Normal - Extended)
+{
+Summons 5 helicopters that roam in 500 AoE attacking nearby enemy units.
+}
+
+STRING 619
+// Units: u002 (Electrician), Ubertip (Tooltip - Extended)
+{
+Summons electric towers. |cFFFFFFFFNormal|r | |cFF00FFFFBounce|r | |cff800080Spell|r
+}
+
+STRING 620
+// Units: h01U (Thunder Rod), Tip (Tooltip - Basic)
+{
+|cffffcc00R|r - Build Thunder Rod
+}
+
+STRING 622
+// Units: h01U (Thunder Rod), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 623
+// Units: h01U (Thunder Rod), Name (Name)
+{
+Thunder Rod
+}
+
+STRING 624
+// Abilities: A00M ([Electricity] Forked Lightning), Name (Name)
+{
+[Electricity] Forked Lightning
+}
+
+STRING 625
+// Abilities: A00M ([Electricity] Forked Lightning), Tip (Tooltip - Normal)
+{
+Forked Lightning
+}
+
+STRING 626
+// Abilities: A00M ([Electricity] Forked Lightning), Ubertip (Tooltip - Normal - Extended)
+{
+Calls forth a cone of lightning on a target enemy unit, hitting up to 5 enemy units for 900 damage.
+}
+
+STRING 627
+// Units: h01V (Sparkler), Name (Name)
+{
+Sparkler
+}
+
+STRING 628
+// Units: h01V (Sparkler), Tip (Tooltip - Basic)
+{
+|cffffcc00A|r - Build Sparkler
+}
+
+STRING 630
+// Units: h01V (Sparkler), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 631
+// Units: h01W (Battery), Name (Name)
+{
+Battery
+}
+
+STRING 632
+// Units: h01W (Battery), Tip (Tooltip - Basic)
+{
+|cffffcc00F|r - Build Battery
+}
+
+STRING 634
+// Units: h01W (Battery), Hotkey (Hotkey)
+{
+F
+}
+
+STRING 635
+// Units: h01X (Zeus), Tip (Tooltip - Basic)
+{
+|cffffcc00D|r - Build Zeus
+}
+
+STRING 637
+// Units: h01X (Zeus), Hotkey (Hotkey)
+{
+D
+}
+
+STRING 638
+// Units: h01X (Zeus), Name (Name)
+{
+Zeus
+}
+
+STRING 641
+// Abilities: A00L ([Electricity] Chain Lightning), Tip (Tooltip - Normal)
+{
+Chain Lightning
+}
+
+STRING 645
+// Units: o00I (Power Plant), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 647
+// Abilities: A00N ([Electricity] Overcharge), Name (Name)
+{
+[Electricity] Overcharge
+}
+
+STRING 648
+// Abilities: A00N ([Electricity] Overcharge), Tip (Tooltip - Normal)
+{
+Overcharge
+}
+
+STRING 650
+// Buffs/Effects: B007 (Overcharge), EditorName (Name (Editor Only))
+{
+Overcharge
+}
+
+STRING 651
+// Buffs/Effects: B007 (Overcharge), Buffubertip (Tooltip - Extended)
+{
+This unit is under the effects of Overcharge; it has increased attack damage.
+}
+
+STRING 652
+// Buffs/Effects: B007 (Overcharge), Bufftip (Tooltip)
+{
+Overcharge
+}
+
+STRING 653
+// Units: o00I (Power Plant), Name (Name)
+{
+Power Plant
+}
+
+STRING 654
+// Units: o00I (Power Plant), Tip (Tooltip - Basic)
+{
+|cffffcc00S|r - Build Power Plant
+}
+
+STRING 655
+// Units: h01Y (Spirit Wolf), Name (Name)
+{
+Spirit Wolf
+}
+
+STRING 656
+// Units: h01Y (Spirit Wolf), Tip (Tooltip - Basic)
+{
+|cffffcc00Q|r - Build Spirit Wolf
+}
+
+STRING 657
+// Units: h01Y (Spirit Wolf), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 659
+// Units: h01Z (Dire Wolf), Name (Name)
+{
+Dire Wolf
+}
+
+STRING 660
+// Units: h01Z (Dire Wolf), Tip (Tooltip - Basic)
+{
+|cffffcc00U|r - Upgrade to Dire Wolf
+}
+
+STRING 661
+// Units: h01Z (Dire Wolf), Hotkey (Hotkey)
+{
+U
+}
+
+STRING 663
+// Units: h020 (Shadow Wolf), Name (Name)
+{
+Shadow Wolf
+}
+
+STRING 664
+// Units: h020 (Shadow Wolf), Tip (Tooltip - Basic)
+{
+|cffffcc00U|r - Upgrade to Shadow Wolf
+}
+
+STRING 665
+// Units: h020 (Shadow Wolf), Hotkey (Hotkey)
+{
+U
+}
+
+STRING 667
+// Abilities: A00O ([Summons] Minibash), Name (Name)
+{
+[Summons] Minibash
+}
+
+STRING 668
+// Abilities: A00O ([Summons] Minibash), Ubertip (Tooltip - Normal - Extended)
+{
+Gives a 5% chance that an attack will stun an opponent for 0.1 seconds.
+}
+
+STRING 669
+// Abilities: A00O ([Summons] Minibash), Tip (Tooltip - Normal)
+{
+Minibash
+}
+
+STRING 670
+// Abilities: A00P ([Summons] Cleave), Name (Name)
+{
+[Summons] Cleave
+}
+
+STRING 671
+// Abilities: A00P ([Summons] Cleave), Tip (Tooltip - Normal)
+{
+Cleave
+}
+
+STRING 672
+// Abilities: A00P ([Summons] Cleave), Ubertip (Tooltip - Normal - Extended)
+{
+The creature strikes with such force that 20% of their damage strikes through to enemies near the primary attacked unit.
+}
+
+STRING 673
+// Abilities: A00Q ([Summons] Critical Strike), Name (Name)
+{
+[Summons] Critical Strike
+}
+
+STRING 675
+// Abilities: A00R ([Summons] Cleave 2), Name (Name)
+{
+[Summons] Cleave 2
+}
+
+STRING 676
+// Abilities: A00R ([Summons] Cleave 2), Tip (Tooltip - Normal)
+{
+Cleave
+}
+
+STRING 677
+// Abilities: A00R ([Summons] Cleave 2), Ubertip (Tooltip - Normal - Extended)
+{
+The creature strikes with such force that 50% of their damage strikes through to enemies near the primary attacked unit.
+}
+
+STRING 678
+// Abilities: A00S ([Summons] Minibash 2), Name (Name)
+{
+[Summons] Minibash 2
+}
+
+STRING 680
+// Abilities: A00S ([Summons] Minibash 2), Tip (Tooltip - Normal)
+{
+Minibash
+}
+
+STRING 681
+// Abilities: A00T ([Summons] Minibash 3), Name (Name)
+{
+[Summons] Minibash 3
+}
+
+STRING 683
+// Abilities: A00T ([Summons] Minibash 3), Tip (Tooltip - Normal)
+{
+Minibash
+}
+
+STRING 684
+// Units: h021 (Quillbeast), Name (Name)
+{
+Quillbeast
+}
+
+STRING 685
+// Units: h021 (Quillbeast), Tip (Tooltip - Basic)
+{
+|cffffcc00W|r - Build Quillbeast
+}
+
+STRING 686
+// Units: h021 (Quillbeast), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 688
+// Units: h022 (Dire Quillbeast), Name (Name)
+{
+Dire Quillbeast
+}
+
+STRING 689
+// Units: h022 (Dire Quillbeast), Tip (Tooltip - Basic)
+{
+|cffffcc00U|r - Upgrade to Dire Quillbeast
+}
+
+STRING 690
+// Units: h022 (Dire Quillbeast), Hotkey (Hotkey)
+{
+U
+}
+
+STRING 692
+// Units: h023 (Raging Quillbeast), Name (Name)
+{
+Raging Quillbeast
+}
+
+STRING 693
+// Units: h023 (Raging Quillbeast), Tip (Tooltip - Basic)
+{
+|cffffcc00U|r - Upgrade to Raging Quillbeast
+}
+
+STRING 694
+// Units: h023 (Raging Quillbeast), Hotkey (Hotkey)
+{
+U
+}
+
+STRING 697
+// Abilities: A00U ([Summons] Frenzy), Name (Name)
+{
+[Summons] Frenzy
+}
+
+STRING 698
+// Abilities: A00U ([Summons] Frenzy), Ubertip (Tooltip - Normal - Extended)
+{
+Causes this unit to attack 50% faster for 10 seconds.
+}
+
+STRING 699
+// Abilities: A00U ([Summons] Frenzy), Tip (Tooltip - Normal)
+{
+Frenzy
+}
+
+STRING 700
+// Buffs/Effects: B008 (), Buffubertip (Tooltip - Extended)
+{
+This unit has Frenzy; its attack rate is increased.
+}
+
+STRING 701
+// Units: h024 (Water Elemental), Name (Name)
+{
+Water Elemental
+}
+
+STRING 702
+// Units: h024 (Water Elemental), Tip (Tooltip - Basic)
+{
+|cffffcc00E|r - Build Water Elemental
+}
+
+STRING 703
+// Units: h024 (Water Elemental), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 705
+// Abilities: A00Q ([Summons] Critical Strike), Ubertip (Tooltip - Normal - Extended)
+{
+Gives a 5% chance to do 2.5 times normal damage on an attack.
+}
+
+STRING 706
+// Units: h025 (Hawk), Name (Name)
+{
+Hawk
+}
+
+STRING 707
+// Units: h025 (Hawk), Tip (Tooltip - Basic)
+{
+|cffffcc00R|r - Build Hawk
+}
+
+STRING 708
+// Units: h025 (Hawk), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 710
+// Units: n000 ([Summons] Clockwerk Goblin), Name (Name)
+{
+[Summons] Clockwerk Goblin
+}
+
+STRING 711
+// Units: o00J (Pocket Factory), Name (Name)
+{
+Pocket Factory
+}
+
+STRING 712
+// Units: o00J (Pocket Factory), Tip (Tooltip - Basic)
+{
+|cffffcc00A|r - Build Pocket Factory
+}
+
+STRING 713
+// Units: o00J (Pocket Factory), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 715
+// Abilities: A00V ([Summons] Factory), Name (Name)
+{
+[Summons] Factory
+}
+
+STRING 717
+// Units: h026 (Lava Spawn), Name (Name)
+{
+Lava Spawn
+}
+
+STRING 718
+// Units: h026 (Lava Spawn), Tip (Tooltip - Basic)
+{
+|cffffcc00S|r - Build Lava Spawn
+}
+
+STRING 719
+// Units: h026 (Lava Spawn), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 721
+// Abilities: A00W ([Summons] Incinerate), Name (Name)
+{
+[Summons] Incinerate
+}
+
+STRING 722
+// Abilities: A00W ([Summons] Incinerate), Tip (Tooltip - Normal)
+{
+Incinerate
+}
+
+STRING 724
+// Units: h027 (Bear), Name (Name)
+{
+Bear
+}
+
+STRING 725
+// Units: h027 (Bear), Tip (Tooltip - Basic)
+{
+|cffffcc00D|r - Build Bear
+}
+
+STRING 726
+// Units: h027 (Bear), Hotkey (Hotkey)
+{
+D
+}
+
+STRING 728
+// Units: e003 (Serpent Ward), Name (Name)
+{
+Serpent Ward
+}
+
+STRING 729
+// Units: e003 (Serpent Ward), Tip (Tooltip - Basic)
+{
+|cffffcc00F|r - Build Serpent Ward
+}
+
+STRING 730
+// Units: e003 (Serpent Ward), Hotkey (Hotkey)
+{
+F
+}
+
+STRING 732
+// Abilities: A00W ([Summons] Incinerate), Ubertip (Tooltip - Normal - Extended)
+{
+Each attack made is enhanced with living flames that cling to the target. These flames add 75 damage on the first attack, twice as much on the second attack, three times as much on the third attack, etc.|n|nIf a unit dies while under this effect, it is incinerated, causing up to 300 damage to all nearby hostile units.
+}
+
+STRING 733
+// Abilities: A00X ([Summons] Pulverize), Name (Name)
+{
+[Summons] Pulverize
+}
+
+STRING 734
+// Abilities: A00X ([Summons] Pulverize), Ubertip (Tooltip - Normal - Extended)
+{
+Gives a 25% chance that an attack will deal 1000 damage to nearby units.
+}
+
+STRING 735
+// Abilities: A00Y ([Summons] Multishot), Ubertip (Tooltip - Normal - Extended)
+{
+Allows the serpent ward to hit up to 6 nearby units with each attack.
+}
+
+STRING 736
+// Abilities: A00Y ([Summons] Multishot), Name (Name)
+{
+[Summons] Multishot
+}
+
+STRING 737
+// Abilities: A00Y ([Summons] Multishot), Tip (Tooltip - Normal)
+{
+Multishot
+}
+
+STRING 738
+// Units: o001 (Crystal), Ubertip (Tooltip - Extended)
+{
+|cff008080Aura|r|n|cff8080ffArea of Effect: |r1000|n|cff8080ffEffect: |r+25% attack speed
+}
+
+STRING 739
+// Units: o00F (Factory), Ubertip (Tooltip - Extended)
+{
+|cff008080Aura|r|n|cff8080ffArea of Effect: |r400|n|cff8080ffEffect: |r+10% attack speed, +10% damage
+}
+
+STRING 740
+// Units: h01S (Storm Caller), Ubertip (Tooltip - Extended)
+{
+|cff800080Spell|r|n|cff8080ffCooldown:|r 5s|n|cff8080ffRange: |r1000|n|cff8080ffAbility: |rLightning Shield (Forms a shield of electricity around a target unit, dealing 125 damage per second to units around it. Lasts 60 seconds.)
+}
+
+STRING 741
+// Units: h01T (Lightning Caster), Ubertip (Tooltip - Extended)
+{
+|cff800080Spell|r|n|cff8080ffCooldown:|r 2s|n|cff8080ffRange: |r700|n|cff8080ffAbility: |rChain Lightning (Calls forth a bolt of lightning that bounces up to 6 times, dealing 250 damage on the primary target. Each jump deals less damage.)
+}
+
+STRING 742
+// Units: h01U (Thunder Rod), Ubertip (Tooltip - Extended)
+{
+|cff800080Spell|r|n|cff8080ffCooldown:|r 3s|n|cff8080ffRange: |r700|n|cff8080ffAbility: |rForked Lightning (Calls forth a cone of lightning on a target enemy unit, hitting up to 5 enemy units for 900 damage.)
+}
+
+STRING 746
+// Units: o00I (Power Plant), Ubertip (Tooltip - Extended)
+{
+|cff008080Aura|r|n|cff8080ffArea of Effect: |r700|n|cff8080ffEffect: |r+30% attack damage
+}
+
+STRING 747
+// Units: h01Y (Spirit Wolf), Ubertip (Tooltip - Extended)
+{
+|cFFFFFFFFNormal|r | |cFFDC143CSingle Target|r|n|cff8080ffDamage: |r42|n|cff8080ffAttack Speed: |r0.5|n|cff8080ffRange: |rMelee|n|cff8080ffAbility: |rMinibash (5%, 0.1s)
+}
+
+STRING 750
+// Units: h021 (Quillbeast), Ubertip (Tooltip - Extended)
+{
+|cFFFF0000Pierce|r | |cFFDC143CSingle Target|r|n|cff8080ffDamage: |r150-200|n|cff8080ffAttack Speed: |r0.75|n|cff8080ffRange: |r400
+}
+
+STRING 751
+// Units: h022 (Dire Quillbeast), Ubertip (Tooltip - Extended)
+{
+|cFFFF0000Pierce|r | |cFFDC143CSingle Target|r|n|cff8080ffDamage: |r475-500|n|cff8080ffAttack Speed: |r0.66|n|cff8080ffRange: |r500|n|cff8080ffAbility: |rFrenzy (Causes this unit to attack 50% faster for 10 seconds.)|N|cff8080ffCooldown: |r30 seconds
+}
+
+STRING 752
+// Units: h023 (Raging Quillbeast), Ubertip (Tooltip - Extended)
+{
+|cFFFF0000Pierce|r | |cFFFFFF00Splash|r (144)|n|cff8080ffDamage: |r555|n|cff8080ffAttack Speed: |r0.5|n|cff8080ffRange: |r600|n|cff8080ffAbility: |rFrenzy (Causes this unit to attack 50% faster for 10 seconds.)|N|cff8080ffCooldown: |r30 seconds
+}
+
+STRING 754
+// Units: h025 (Hawk), Ubertip (Tooltip - Extended)
+{
+|cFF3399FFMagic|r | |cFFFFFF00Splash|r (300)|n|cff8080ffDamage: |r85|n|cff8080ffAttack Speed: |r0.2|n|cff8080ffRange: |r700
+}
+
+STRING 755
+// Units: o00J (Pocket Factory), Ubertip (Tooltip - Extended)
+{
+|cFFFFFFFFNormal|r | |cFFDC143CSingle Target|r|n|cff8080ffDamage: |r500|n|cff8080ffAttack Speed: |r1|n|cff8080ffRange: |rMelee|n|cff8080ffAbility: |rSummons a clockwerk goblin every 6 seconds that lasts for 30 seconds.
+}
+
+STRING 756
+// Units: h026 (Lava Spawn), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r | |cFFFFFF00Splash|r (450)|n|cff8080ffDamage: |r1275|n|cff8080ffAttack Speed: |r1.5|n|cff8080ffRange: |r800|N|cff8080ffAbility: |rIncinerate (Each attack made is enhanced with living flames that cling to the target. These flames add 75 damage on the first attack, twice as much on the second attack, three times as much on the third attack, etc.|n|nIf a unit dies while under this effect, it is incinerated, causing up to 300 damage to all nearby hostile units.)
+}
+
+STRING 757
+// Units: h027 (Bear), Ubertip (Tooltip - Extended)
+{
+|cFFAAAAAASiege|r |  |cFFDC143CSingle Target|r|n|cff8080ffDamage: |r590-600|n|cff8080ffAttack Speed: |r0.25|n|cff8080ffRange: |rMelee|n|cff8080ffAbility: |rPulverize (25% chance to deal 1000 damage in 250 AoE)
+}
+
+STRING 758
+// Units: e003 (Serpent Ward), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r | |cffd45e19Multishot|r (6)|n|cff8080ffDamage: |r6720|n|cff8080ffAttack Speed: |r3|n|cff8080ffRange: |r800
+}
+
+STRING 759
+// Abilities: A002 ([Crystal] Luminous Aura), Ubertip (Tooltip - Normal - Extended)
+{
+Increases nearby friendly tower's attack rate by 25%.
+}
+
+STRING 760
+// Abilities: A00H ([Tech] Production Line), Ubertip (Tooltip - Normal - Extended)
+{
+Increases nearby friendly tower's attack rate by 10%.
+}
+
+STRING 761
+// Abilities: A00G ([Tech] Production Line), Ubertip (Tooltip - Normal - Extended)
+{
+Increases nearby friendly tower's attack damage by 10%.
+}
+
+STRING 762
+// Abilities: A00N ([Electricity] Overcharge), Ubertip (Tooltip - Normal - Extended)
+{
+Increases nearby friendly tower's attack damage by 30%.
+}
+
+STRING 763
+// Abilities: A00V ([Summons] Factory), Ubertip (Tooltip - Normal - Extended)
+{
+Summons a clockwerk goblin every 6 seconds.
+}
+
+STRING 764
+// Units: u009 (Summoner), Ubertip (Tooltip - Extended)
+{
+Summons summon towers. |cFFFFEBCDHybrid|r | |cFFFFEBCDHybrid|r
+}
+
+STRING 767
+// Units: h029 (Pebble Tower), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 771
+// Units: h02A (Rock Blaster), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 775
+// Abilities: A00Z ([Apostle] Multishot), Tip (Tooltip - Normal)
+{
+Multishot
+}
+
+STRING 777
+// Units: u006 (Stone Golem), Name (Name)
+{
+Stone Golem
+}
+
+STRING 778
+// Units: u006 (Stone Golem), Tip (Tooltip - Basic)
+{
+|cffffcc00D|r - Train Stone Golem
+}
+
+STRING 779
+// Units: u006 (Stone Golem), Ubertip (Tooltip - Extended)
+{
+Summons stone towers. |cFFAAAAAASiege|r | |cFFDC143CSingle Target|r
+}
+
+STRING 780
+// Units: u00B (Treant), Name (Name)
+{
+Treant
+}
+
+STRING 781
+// Units: u00B (Treant), Tip (Tooltip - Basic)
+{
+|cffffcc00F|r - Train Treant
+}
+
+STRING 784
+// Units: h02C (Prophet), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 787
+{
+Release Date: 2019/09/05
+}
+
+STRING 788
+{
+Description
+}
+
+STRING 789
+{
+A streamlined remake of the original wintermaul aimed at reducing completion time and increasing difficulty. Takes <40 minutes to beat.
+
+|cffff00ffStill in the very early stages of development. May be bugs/balance issues.|r Will be gradually adding more races.
+}
+
+STRING 790
+{
+|c0000cdf9Final level is |r35|c0000cdf9(Fortified).|r
+}
+
+STRING 791
+// Units: e000 (Crystal Spirit), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r | |cffd45e19Multishot|r (∞)|n|cff8080ffDamage: |r855|n|cff8080ffAttack Speed: |r0.5|n|cff8080ffRange: |r700|n|cff8080ffAbility: |rCritical Strike (20%, 2x)
+}
+
+STRING 793
+// Units: h029 (Pebble Tower), Tip (Tooltip - Basic)
+{
+|cffffcc00Q|r - Build Pebble Tower
+}
+
+STRING 794
+// Units: h029 (Pebble Tower), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r | |cFFDC143CSingle Target|r|n|cff8080ffDamage: |r18-21|n|cff8080ffAttack Speed: |r1|n|cff8080ffRange: |r700
+}
+
+STRING 795
+// Units: h028 (Holy Guard Tower), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 796
+// Units: h029 (Pebble Tower), Name (Name)
+{
+Pebble Tower
+}
+
+STRING 797
+// Units: h02A (Rock Blaster), Tip (Tooltip - Basic)
+{
+|cffffcc00W|r - Build Rock Blaster
+}
+
+STRING 798
+// Units: h02A (Rock Blaster), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r | |cFFDC143CSingle Target|r|n|cff8080ffDamage: |r18-21|n|cff8080ffAttack Speed: |r1|n|cff8080ffRange: |r700
+}
+
+STRING 799
+// Units: h02B (Heaven Guard), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 800
+// Units: h02A (Rock Blaster), Name (Name)
+{
+Rock Blaster
+}
+
+STRING 801
+// Units: h01M (Ice Troll), Ubertip (Tooltip - Extended)
+{
+|cFF3399FFMagic|r | |cFF00FFFFBounce|r (5)|n|cff8080ffDamage: |r400|n|cff8080ffAttack Speed: |r1|n|cff8080ffRange: |r1000
+}
+
+STRING 802
+// Units: h01V (Sparkler), Ubertip (Tooltip - Extended)
+{
+|cFFFFFFFFNormal|r | |cFF00FFFFBounce|r (4)|n|cff8080ffDamage: |r220|n|cff8080ffAttack Speed: |r0.3|n|cff8080ffRange: |r1000
+}
+
+STRING 803
+// Units: h01W (Battery), Ubertip (Tooltip - Extended)
+{
+|cFFFFFFFFNormal|r | |cFF00FFFFBounce|r (8)|n|cff8080ffDamage: |r1250|n|cff8080ffAttack Speed: |r0.5|n|cff8080ffRange: |r1000
+}
+
+STRING 804
+// Units: h01X (Zeus), Ubertip (Tooltip - Extended)
+{
+|cFF3399FFMagic|r | |cFF00FFFFBounce|r (6)|n|cff8080ffDamage: |r1900|n|cff8080ffAttack Speed: |r1|n|cff8080ffRange: |r1000
+}
+
+STRING 805
+// Units: u00F (Angel), Ubertip (Tooltip - Extended)
+{
+Summons heaven towers. |cFF3399FFMagic|r | |cFFDC143CSingle Target
+}
+
+STRING 806
+// Units: h028 (Holy Guard Tower), Tip (Tooltip - Basic)
+{
+|cffffcc00Q|r - Build Holy Guard Tower
+}
+
+STRING 807
+// Units: h028 (Holy Guard Tower), Ubertip (Tooltip - Extended)
+{
+|cFF3399FFMagic|r | |cFFDC143CSingle Target|r|n|cff8080ffDamage: |r20-40|n|cff8080ffAttack Speed: |r1|n|cff8080ffRange: |r600
+}
+
+STRING 808
+// Units: h028 (Holy Guard Tower), Name (Name)
+{
+Holy Guard Tower
+}
+
+STRING 809
+// Units: h02B (Heaven Guard), Tip (Tooltip - Basic)
+{
+|cffffcc00W|r - Build Heaven Guard
+}
+
+STRING 810
+// Units: h02B (Heaven Guard), Ubertip (Tooltip - Extended)
+{
+|cFF3399FFMagic|r | |cFFDC143CSingle Target|r|n|cff8080ffDamage: |r75-125|n|cff8080ffAttack Speed: |r0.5|n|cff8080ffRange: |r700
+}
+
+STRING 811
+// Units: h02B (Heaven Guard), Name (Name)
+{
+Heaven Guard
+}
+
+STRING 812
+// Units: h02C (Prophet), Tip (Tooltip - Basic)
+{
+|cffffcc00E|r - Build Prophet
+}
+
+STRING 813
+// Units: h02C (Prophet), Ubertip (Tooltip - Extended)
+{
+|cFF3399FFMagic|r | |cFFFFFF00Splash|r (200)|n|cff8080ffDamage: |r145|n|cff8080ffAttack Speed: |r0.75|n|cff8080ffRange: |r1000
+}
+
+STRING 814
+// Units: h02C (Prophet), Name (Name)
+{
+Prophet
+}
+
+STRING 815
+// Units: o00K (Gatekeeper), Name (Name)
+{
+Gatekeeper
+}
+
+STRING 816
+// Units: o00K (Gatekeeper), Tip (Tooltip - Basic)
+{
+|cffffcc00R|r - Build Gatekeeper
+}
+
+STRING 818
+// Units: o00K (Gatekeeper), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 819
+// Units: h02D (Saint), Tip (Tooltip - Basic)
+{
+|cffffcc00A|r - Build Saint
+}
+
+STRING 820
+// Units: h02D (Saint), Ubertip (Tooltip - Extended)
+{
+|cFF3399FFMagic|r | |cFFDC143CSingle Target|r|n|cff8080ffDamage: |r700|n|cff8080ffAttack Speed: |r0.33|n|cff8080ffRange: |r600
+}
+
+STRING 821
+// Units: h02D (Saint), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 822
+// Units: h02D (Saint), Name (Name)
+{
+Saint
+}
+
+STRING 823
+// Units: e004 (Apostle), Name (Name)
+{
+Apostle
+}
+
+STRING 824
+// Units: e004 (Apostle), Tip (Tooltip - Basic)
+{
+|cffffcc00S|r - Build Apostle
+}
+
+STRING 825
+// Units: e004 (Apostle), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 826
+// Units: e004 (Apostle), Ubertip (Tooltip - Extended)
+{
+|cFF3399FFMagic|r | |cffd45e19Multishot|r (3)|n|cff8080ffDamage: |r940|n|cff8080ffAttack Speed: |r0.67|n|cff8080ffRange: |r800
+}
+
+STRING 827
+// Units: h02E (Archangel), Tip (Tooltip - Basic)
+{
+|cffffcc00D|r - Build Archangel
+}
+
+STRING 829
+// Units: h02E (Archangel), Hotkey (Hotkey)
+{
+D
+}
+
+STRING 830
+// Units: h02E (Archangel), Name (Name)
+{
+Archangel
+}
+
+STRING 831
+// Units: e005 (God), Name (Name)
+{
+God
+}
+
+STRING 832
+// Units: e005 (God), Tip (Tooltip - Basic)
+{
+|cffffcc00F|r - Build God
+}
+
+STRING 833
+// Units: e005 (God), Hotkey (Hotkey)
+{
+F
+}
+
+STRING 835
+// Abilities: A00Z ([Apostle] Multishot), Ubertip (Tooltip - Normal - Extended)
+{
+Allows the apostle to hit up to 3 nearby units with each attack.
+}
+
+STRING 836
+// Abilities: A00Z ([Apostle] Multishot), Name (Name)
+{
+[Apostle] Multishot
+}
+
+STRING 838
+// Abilities: A010 ([Heaven] Denied Entry), Tip (Tooltip - Normal)
+{
+Deny Entry
+}
+
+STRING 839
+// Abilities: A010 ([Heaven] Denied Entry), Ubertip (Tooltip - Normal - Extended)
+{
+The gatekeeper renders judgement with each attack. Greatly reduces movement speed.
+}
+
+STRING 840
+// Abilities: A011 ([Heaven] Holy Spirit), Name (Name)
+{
+[Heaven] Holy Spirit
+}
+
+STRING 841
+// Abilities: A011 ([Heaven] Holy Spirit), Tip (Tooltip - Normal)
+{
+Holy Spirit
+}
+
+STRING 843
+// Abilities: A012 ([God] Multishot), Ubertip (Tooltip - Normal - Extended)
+{
+Allows god to hit up to 10 nearby units with each attack.
+}
+
+STRING 844
+// Abilities: A012 ([God] Multishot), Name (Name)
+{
+[God] Multishot
+}
+
+STRING 845
+// Abilities: A012 ([God] Multishot), Tip (Tooltip - Normal)
+{
+Multishot
+}
+
+STRING 846
+// Buffs/Effects: B009 (Denied Entry), EditorName (Name (Editor Only))
+{
+Denied Entry
+}
+
+STRING 847
+// Buffs/Effects: B009 (Denied Entry), Bufftip (Tooltip)
+{
+Denied Entry
+}
+
+STRING 848
+// Buffs/Effects: B00A (Holy Spirit), EditorName (Name (Editor Only))
+{
+Holy Spirit
+}
+
+STRING 849
+// Buffs/Effects: B00A (Holy Spirit), Buffubertip (Tooltip - Extended)
+{
+This unit is under the effects of Holy Spirit; it has increased attack damage.
+}
+
+STRING 850
+// Buffs/Effects: B00A (Holy Spirit), Bufftip (Tooltip)
+{
+Holy Spirit
+}
+
+STRING 853
+// Units: h02F (Fire Wolf), Name (Name)
+{
+Fire Wolf
+}
+
+STRING 854
+// Units: h02F (Fire Wolf), Tip (Tooltip - Basic)
+{
+|cffffcc00Q|r - Build Fire Wolf
+}
+
+STRING 855
+// Units: h02F (Fire Wolf), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 857
+// Units: u00G (Satan), Ubertip (Tooltip - Extended)
+{
+Summons demon towers. |cFF00FF00Chaos|r | |cFFFFEBCDHybrid|r
+}
+
+STRING 858
+// Units: e005 (God), Ubertip (Tooltip - Extended)
+{
+|cffff8080Hero|r | |cffd45e19Multishot|r (10)|n|cff8080ffDamage: |r500|n|cff8080ffAttack Speed: |r0.2|n|cff8080ffRange: |r1250
+}
+
+STRING 859
+// Units: h02F (Fire Wolf), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r | |cFFFFFF00Splash|r (100)|n|cff8080ffDamage: |r17-18|n|cff8080ffAttack Speed: |r1|n|cff8080ffRange: |rMelee
+}
+
+STRING 860
+// Units: o00L (Demon Soul), Name (Name)
+{
+Demon Soul
+}
+
+STRING 861
+// Units: o00L (Demon Soul), Tip (Tooltip - Basic)
+{
+|cffffcc00W|r - Build Demon Soul
+}
+
+STRING 862
+// Units: o00L (Demon Soul), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r | |cFFFFFF00Splash|r (350)|n|cff8080ffDamage: |r42-43|n|cff8080ffAttack Speed: |r0.5|n|cff8080ffRange: |r300
+}
+
+STRING 863
+// Units: o00M (Warlock), Name (Name)
+{
+Warlock
+}
+
+STRING 864
+// Units: o00M (Warlock), Tip (Tooltip - Basic)
+{
+|cffffcc00E|r - Build Warlock
+}
+
+STRING 865
+// Units: o00M (Warlock), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 866
+// Units: o00M (Warlock), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r | |cFFDC143CSingle Target|r|n|cff8080ffDamage: |r225|n|cff8080ffAttack Speed: |r1.5|n|cff8080ffRange: |r800|n|cff8080ffAbility: |rBloodlust (Causes target unit to attack 25% faster for 30 seconds.)|N|cff8080ffCooldown: |r5 seconds
+}
+
+STRING 867
+// Abilities: A013 ([Warlock] Bloodlust), Name (Name)
+{
+[Warlock] Bloodlust
+}
+
+STRING 868
+// Abilities: A013 ([Warlock] Bloodlust), Tip (Tooltip - Normal)
+{
+Bloodlust
+}
+
+STRING 869
+// Abilities: A013 ([Warlock] Bloodlust), Ubertip (Tooltip - Normal - Extended)
+{
+Increases a friendly unit's attack rate by 25%. |nLasts 30 seconds.
+}
+
+STRING 870
+// Buffs/Effects: B00B ([Warlock] Bloodlust), EditorName (Name (Editor Only))
+{
+[Warlock] Bloodlust
+}
+
+STRING 871
+// Buffs/Effects: B00B ([Warlock] Bloodlust), Buffubertip (Tooltip - Extended)
+{
+This unit has Bloodlust; its attack rate is increased.
+}
+
+STRING 872
+// Units: o00N (Sacrifical Pit), Name (Name)
+{
+Sacrifical Pit
+}
+
+STRING 873
+// Units: o00N (Sacrifical Pit), Tip (Tooltip - Basic)
+{
+|cffffcc00R|r - Build Sacrifical Pit
+}
+
+STRING 874
+// Units: o00N (Sacrifical Pit), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 876
+// Abilities: A014 ([Demon] Blood Aura), Name (Name)
+{
+[Demon] Blood Aura
+}
+
+STRING 877
+// Abilities: A014 ([Demon] Blood Aura), Tip (Tooltip - Normal)
+{
+Blood Aura
+}
+
+STRING 878
+// Abilities: A014 ([Demon] Blood Aura), Ubertip (Tooltip - Normal - Extended)
+{
+Increases nearby friendly tower's attack damage by 0%.
+}
+
+STRING 879
+// Abilities: A014 ([Demon] Blood Aura), Tip (Tooltip - Normal)
+{
+Blood Aura
+}
+
+STRING 880
+// Abilities: A014 ([Demon] Blood Aura), Tip (Tooltip - Normal)
+{
+Blood Aura
+}
+
+STRING 881
+// Abilities: A014 ([Demon] Blood Aura), Tip (Tooltip - Normal)
+{
+Blood Aura
+}
+
+STRING 882
+// Abilities: A014 ([Demon] Blood Aura), Tip (Tooltip - Normal)
+{
+Blood Aura
+}
+
+STRING 883
+// Abilities: A014 ([Demon] Blood Aura), Tip (Tooltip - Normal)
+{
+Blood Aura
+}
+
+STRING 884
+// Abilities: A014 ([Demon] Blood Aura), Ubertip (Tooltip - Normal - Extended)
+{
+Increases nearby friendly tower's attack damage by 5%.
+}
+
+STRING 885
+// Abilities: A014 ([Demon] Blood Aura), Ubertip (Tooltip - Normal - Extended)
+{
+Increases nearby friendly tower's attack damage by 10%.
+}
+
+STRING 886
+// Abilities: A014 ([Demon] Blood Aura), Ubertip (Tooltip - Normal - Extended)
+{
+Increases nearby friendly tower's attack damage by 15%.
+}
+
+STRING 887
+// Abilities: A014 ([Demon] Blood Aura), Ubertip (Tooltip - Normal - Extended)
+{
+Increases nearby friendly tower's attack damage by 20%.
+}
+
+STRING 888
+// Abilities: A014 ([Demon] Blood Aura), Ubertip (Tooltip - Normal - Extended)
+{
+Increases nearby friendly tower's attack damage by 25%.
+}
+
+STRING 889
+// Abilities: A015 ([Demon] Sacrifice), Name (Name)
+{
+[Demon] Sacrifice
+}
+
+STRING 890
+// Abilities: A015 ([Demon] Sacrifice), Ubertip (Tooltip - Normal - Extended)
+{
+Sacrifices a demon soul for +5% dmg to blood aura. Stacks up to 25%.
+}
+
+STRING 891
+// Abilities: A015 ([Demon] Sacrifice), Tip (Tooltip - Normal)
+{
+Sacrifice
+}
+
+STRING 892
+// Buffs/Effects: B00C (Blood Aura), EditorName (Name (Editor Only))
+{
+Blood Aura
+}
+
+STRING 893
+// Buffs/Effects: B00C (Blood Aura), Buffubertip (Tooltip - Extended)
+{
+This unit is under the effects of Blood Aura; it has increased attack damage.
+}
+
+STRING 894
+// Buffs/Effects: B00C (Blood Aura), Bufftip (Tooltip)
+{
+Blood Aura
+}
+
+STRING 895
+// Units: o00O (Dragon's Lair), Name (Name)
+{
+Dragon's Lair
+}
+
+STRING 896
+// Units: o00O (Dragon's Lair), Tip (Tooltip - Basic)
+{
+|cffffcc00A|r - Build Dragon's Lair
+}
+
+STRING 897
+// Units: o00O (Dragon's Lair), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 898
+// Units: o00O (Dragon's Lair), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r | |cFFFFFF00Splash|r (400)|n|cff8080ffDamage: |r550|n|cff8080ffAttack Speed: |r2|n|cff8080ffRange: |r500|n|cff8080ffAbility: |rSummons a dragon every 15 seconds that lasts for 30 seconds.
+}
+
+STRING 899
+// Units: n001 ([Demon] Green Dragon), Name (Name)
+{
+[Demon] Green Dragon
+}
+
+STRING 900
+// Units: n001 ([Demon] Green Dragon), Tip (Tooltip - Basic)
+{
+Summon Green Dragon
+}
+
+STRING 901
+// Abilities: A016 ([Demon] Hatch Egg), Name (Name)
+{
+[Demon] Hatch Egg
+}
+
+STRING 902
+// Abilities: A016 ([Demon] Hatch Egg), Ubertip (Tooltip - Normal - Extended)
+{
+Summons a dragon every 15 seconds.
+}
+
+STRING 903
+// Abilities: A016 ([Demon] Hatch Egg), Tip (Tooltip - Normal)
+{
+Incubator
+}
+
+STRING 904
+// Buffs/Effects: B00D (Green Dragon), EditorName (Name (Editor Only))
+{
+Green Dragon
+}
+
+STRING 905
+// Buffs/Effects: B00D (Green Dragon), Bufftip (Tooltip)
+{
+Green Dragon
+}
+
+STRING 906
+// Buffs/Effects: B00D (Green Dragon), Buffubertip (Tooltip - Extended)
+{
+Green Dragon
+}
+
+STRING 907
+// Units: o00N (Sacrifical Pit), Ubertip (Tooltip - Extended)
+{
+|cff800080Spell|r|n|cff8080ffCooldown:|r 30s|n|cff8080ffRange: |r1000|n|cff8080ffAbility: |rSacrifices a demon soul for +5% dmg to blood aura. Stacks up to 25%.|n|cff008080Aura|r|n|cff8080ffArea of Effect: |r1000|n|cff8080ffEffect: |r+0/5/10/15/20/25% damage
+}
+
+STRING 908
+// Units: h02G (Possessed Axemaster), Name (Name)
+{
+Possessed Axemaster
+}
+
+STRING 909
+// Units: h02G (Possessed Axemaster), Tip (Tooltip - Basic)
+{
+|cffffcc00S|r - Build Possessed Axemaster
+}
+
+STRING 910
+// Units: h02G (Possessed Axemaster), Hotkey (Hotkey)
+{
+S
+}
+
+STRING 911
+// Units: h02G (Possessed Axemaster), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r |  |cFFDC143CSingle Target|r|n|cff8080ffDamage: |r400|n|cff8080ffAttack Speed: |r0.2|n|cff8080ffRange: |rMelee|n|cff8080ffAbility: |rPowerful Slash (50% chance to deal 250 damage in 400 AoE)
+}
+
+STRING 912
+// Units: e006 (Blood Centaur), Name (Name)
+{
+Blood Centaur
+}
+
+STRING 913
+// Units: e006 (Blood Centaur), Tip (Tooltip - Basic)
+{
+|cffffcc00D|r - Build Blood Centaur
+}
+
+STRING 914
+// Units: e006 (Blood Centaur), Hotkey (Hotkey)
+{
+D
+}
+
+STRING 915
+// Units: e006 (Blood Centaur), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r | |cFFFFFF00Splash|r (500)|n|cff8080ffDamage: |r2000|n|cff8080ffAttack Speed: |r1.8|n|cff8080ffRange: |r1000
+}
+
+STRING 916
+// Units: h02H (Clan Leader), Name (Name)
+{
+Clan Leader
+}
+
+STRING 917
+// Units: h02H (Clan Leader), Tip (Tooltip - Basic)
+{
+|cffffcc00F|r - Build Clan Leader
+}
+
+STRING 918
+// Units: h02H (Clan Leader), Hotkey (Hotkey)
+{
+F
+}
+
+STRING 920
+// Abilities: A017 ([Demon] Powerful Slash), Name (Name)
+{
+[Demon] Powerful Slash
+}
+
+STRING 921
+// Abilities: A017 ([Demon] Powerful Slash), Ubertip (Tooltip - Normal - Extended)
+{
+Gives a 50% chance that an attack will deal 250 damage to nearby units.
+}
+
+STRING 922
+// Abilities: A017 ([Demon] Powerful Slash), Tip (Tooltip - Normal)
+{
+Powerful Slash
+}
+
+STRING 923
+// Abilities: A018 ([Demon] Critical Strike), Name (Name)
+{
+[Demon] Critical Strike
+}
+
+STRING 924
+// Abilities: A018 ([Demon] Critical Strike), Ubertip (Tooltip - Normal - Extended)
+{
+Gives a 10% chance to do 5 times normal damage on an attack.
+}
+
+STRING 925
+// Abilities: A019 ([Demon] Bash), Name (Name)
+{
+[Demon] Bash
+}
+
+STRING 927
+// Abilities: A019 ([Demon] Bash), Tip (Tooltip - Normal)
+{
+Fear
+}
+
+STRING 931
+// Abilities: A01A ([Frost] Slow), Name (Name)
+{
+[Frost] Slow
+}
+
+STRING 932
+// Abilities: A01B (Dummy Frost), Name (Name)
+{
+Dummy Frost
+}
+
+STRING 933
+// Abilities: A01B (Dummy Frost), Tip (Tooltip - Normal)
+{
+Frost
+}
+
+STRING 934
+// Abilities: A01B (Dummy Frost), Ubertip (Tooltip - Normal - Extended)
+{
+Adds a cold effect to this unit's attacks that slows enemy units' movement speed.
+}
+
+STRING 935
+// Units: h002 (Crystal Slower), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r | |cFFFFFF00Splash|r (150) | |cFFFF99FFSlow|r|n|cff8080ffDamage: |r360-400|n|cff8080ffAttack Speed: |r1.25|n|cff8080ffRange: |r800
+}
+
+STRING 936
+// Units: h01C (Snowball Launcher), Ubertip (Tooltip - Extended)
+{
+|cFF3399FFMagic|r | |cFFFFFF00Splash|r (200) | |cFFFF99FFSlow|r|n|cff8080ffDamage: |r80-85|n|cff8080ffAttack Speed: |r1|n|cff8080ffRange: |r700
+}
+
+STRING 937
+// Units: o00E (Blizzard Master), Ubertip (Tooltip - Extended)
+{
+|cFF3399FFMagic|r | |cFFFFFF00Splash|r (210) | |cFFFF99FFSlow|r|n|cff8080ffDamage: |r130|n|cff8080ffAttack Speed: |r0.8|n|cff8080ffRange: |r700
+}
+
+STRING 938
+// Units: h01K (Cold Exploder), Ubertip (Tooltip - Extended)
+{
+|cFF3399FFMagic|r | |cFFFFFF00Splash|r (600) | |cFFFF99FFSlow|r|n|cff8080ffDamage: |r370|n|cff8080ffAttack Speed: |r1|n|cff8080ffRange: |r1000
+}
+
+STRING 939
+// Units: h01L (Nova Creator), Ubertip (Tooltip - Extended)
+{
+|cFF3399FFMagic|r | |cFFFFFF00Splash|r (400) | |cFFFF99FFSlow|r|n|cff8080ffDamage: |r2400|n|cff8080ffAttack Speed: |r2|n|cff8080ffRange: |r700
+}
+
+STRING 940
+// Units: o00H (Frost Wolf), Ubertip (Tooltip - Extended)
+{
+|cFF3399FFMagic|r | |cFFFFFF00Splash|r (250) | |cFFFF99FFSlow|r|n|cff8080ffDamage: |r1750|n|cff8080ffAttack Speed: |r0.75|n|cff8080ffRange: |rMelee
+}
+
+STRING 941
+// Units: h024 (Water Elemental), Ubertip (Tooltip - Extended)
+{
+|cFF3399FFMagic|r | |cFFFFFF00Splash|r (100) | |cFFFF99FFSlow|r|n|cff8080ffDamage: |r155-160|n|cff8080ffAttack Speed: |r1|n|cff8080ffRange: |r700
+}
+
+STRING 943
+// Units: h02E (Archangel), Ubertip (Tooltip - Extended)
+{
+|cFF3399FFMagic|r | |cFFDC143CSingle Target|r|n|cff8080ffDamage: |r1250|n|cff8080ffAttack Speed: |r0.25|n|cff8080ffRange: |r1000|n|cff008080Aura|r|n|cff8080ffArea of Effect: |r200|n|cff8080ffEffect: |r+40% damage
+}
+
+STRING 944
+// Units: h02H (Clan Leader), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r |  |cFFDC143CSingle Target|r|n|cff8080ffDamage: |r1200|n|cff8080ffAttack Speed: |r0.12|n|cff8080ffRange: |rMelee|n|cff8080ffAbility: |rCritical Strike (Gives a 10% chance to do 5 times normal damage on an attack.)|n|cff8080ffAbility: |rFear (Gives a 5% chance that an attack will cause an opponent to cower in fear for 0.7 seconds.)
+}
+
+STRING 945
+// Units: h02I (Farm), Tip (Tooltip - Basic)
+{
+|cffffcc00Z|r - Build Farm
+}
+
+STRING 946
+// Units: h02I (Farm), Ubertip (Tooltip - Extended)
+{
+|cff8080ffAbility: |rPlant Crop (Increases food by 2.)|n|cff8080ffCost: |r40g
+}
+
+STRING 947
+// Units: h02I (Farm), Hotkey (Hotkey)
+{
+Z
+}
+
+STRING 948
+// Units: h02I (Farm), Name (Name)
+{
+Farm
+}
+
+STRING 949
+// Abilities: A011 ([Heaven] Holy Spirit), Ubertip (Tooltip - Normal - Extended)
+{
+Increases nearby friendly tower's attack damage by 40%.
+}
+
+STRING 950
+// Abilities: A019 ([Demon] Bash), Ubertip (Tooltip - Normal - Extended)
+{
+Gives a 5% chance that an attack will cause an opponent to cower in fear for 0.7 seconds.
+}
+
+STRING 951
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 952
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 953
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 957
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 958
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 959
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 960
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+Z
+}
+
+STRING 1060
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1061
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1062
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1063
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1064
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1065
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1066
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1067
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1068
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1069
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1070
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1071
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1072
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1073
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1074
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1075
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1076
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1077
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1078
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1079
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1080
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1081
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1082
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1083
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1084
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1085
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1086
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1087
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1088
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1089
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1090
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1091
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1092
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1093
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1094
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1095
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1096
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1097
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1098
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1099
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1100
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1101
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1102
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1103
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1104
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1105
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1106
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1107
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1108
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1109
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1110
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1111
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1112
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1113
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1114
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1115
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1116
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1117
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1118
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1119
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1120
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1121
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1122
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1123
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1124
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1125
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1126
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1127
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1128
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1129
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1130
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1131
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1132
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1133
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1134
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1135
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1136
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1137
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1138
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1139
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1140
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1141
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1142
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1143
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1144
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1145
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1146
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1147
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1148
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1149
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1150
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1151
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1152
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1153
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1154
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1155
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1156
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Name (Name)
+{
+Plant Crop
+}
+
+STRING 1253
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1254
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1255
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1256
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1257
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1258
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1259
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1260
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1261
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1262
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1263
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1264
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1265
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1266
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1267
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1268
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1269
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1270
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1271
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1272
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1273
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1274
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1275
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1276
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1277
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1278
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1279
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1280
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1281
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1282
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1283
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1284
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1285
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1286
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1287
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1288
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1289
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1290
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1291
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1292
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1293
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1294
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1295
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1296
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1297
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1298
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1299
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1300
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1301
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1302
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1303
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1304
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1305
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1306
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1307
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1308
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1309
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1310
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1311
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1312
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1313
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1314
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1315
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1316
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1317
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1318
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1319
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1320
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1321
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1322
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1323
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1324
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1325
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1326
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1327
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1328
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1329
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1330
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1331
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1332
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1333
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1334
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1335
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1336
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1337
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1338
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1339
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1340
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1341
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1342
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1343
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1344
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1345
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1346
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1347
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1348
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Ubertip (Tooltip - Extended)
+{
+Increases food by 2.
+}
+
+STRING 1349
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1350
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1351
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1352
+// Units: h02O (Baby Sheep), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1353
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1354
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1355
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1356
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1357
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1358
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1359
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1360
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1361
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1362
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1363
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1364
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1365
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1366
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1367
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1368
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1369
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1370
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1371
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1372
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1373
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1374
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1375
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1376
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1377
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1378
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1379
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1380
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1381
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1382
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1383
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1384
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1385
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1386
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1387
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1388
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1389
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1390
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1391
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1392
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1393
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1394
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1395
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1396
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1397
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1398
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1399
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1400
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1401
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1402
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1403
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1404
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1405
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1406
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1407
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1408
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1409
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1410
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1411
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1412
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1413
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1414
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1415
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1416
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1417
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1418
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1419
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1420
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1421
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1422
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1423
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1424
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1425
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1426
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1427
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1428
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1429
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1430
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1431
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1432
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1433
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1434
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1435
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1436
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1437
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1438
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1439
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1440
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1441
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1442
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1443
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1444
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1445
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1446
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1447
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1448
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1449
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1450
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1451
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1452
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1453
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1454
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1455
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1456
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1457
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1458
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1459
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1460
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1461
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1462
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1463
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1464
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1465
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1466
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1467
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1468
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1469
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1470
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1471
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1472
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1473
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1474
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1475
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1476
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1477
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1478
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1479
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1480
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1481
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1482
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1483
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1484
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1485
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1486
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1487
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1488
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1489
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1490
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1491
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1492
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1493
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1494
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1495
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1496
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1497
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1498
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1499
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1500
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1501
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1502
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1503
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1504
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1505
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1506
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1507
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1508
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1509
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1510
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1511
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1512
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1513
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1514
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1515
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1516
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1517
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1518
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1519
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1520
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1521
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1522
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1523
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1524
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1525
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1526
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1527
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1528
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1529
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1530
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1531
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1532
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1533
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1534
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1535
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1536
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1537
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1538
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1539
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1540
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1541
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1542
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1543
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1544
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1545
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1546
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Tip (Tooltip)
+{
+|cffffcc00W|r - Plant Crop
+}
+
+STRING 1547
+// Units: h02J (Baby Pig), Tip (Tooltip - Basic)
+{
+|cffffcc00Q|r - Raise Baby Pig
+}
+
+STRING 1548
+// Units: h02J (Baby Pig), Ubertip (Tooltip - Extended)
+{
+|cFFAAAAAASiege|r | |cFFFFFF00Splash|r (50)|n|cff8080ffDamage: |r70-80|n|cff8080ffAttack Speed: |r2|n|cff8080ffRange: |r300
+}
+
+STRING 1549
+// Units: h02J (Baby Pig), Hotkey (Hotkey)
+{
+Q
+}
+
+STRING 1550
+// Units: h02J (Baby Pig), Name (Name)
+{
+Baby Pig
+}
+
+STRING 1551
+// Units: h02K (Adolescent Pig), Tip (Tooltip - Basic)
+{
+|cffffcc00U|r - Raise Adolescent Pig
+}
+
+STRING 1552
+// Units: h02K (Adolescent Pig), Ubertip (Tooltip - Extended)
+{
+|cFFAAAAAASiege|r | |cFFFFFF00Splash|r (100)|n|cff8080ffDamage: |r200-220|n|cff8080ffAttack Speed: |r2|n|cff8080ffRange: |r400
+}
+
+STRING 1553
+// Units: h02K (Adolescent Pig), Hotkey (Hotkey)
+{
+U
+}
+
+STRING 1554
+// Units: h02K (Adolescent Pig), Name (Name)
+{
+Adolescent Pig
+}
+
+STRING 1555
+// Units: h02L (Young Adult Pig), Tip (Tooltip - Basic)
+{
+|cffffcc00U|r - Raise Young Adult Pig
+}
+
+STRING 1556
+// Units: h02L (Young Adult Pig), Ubertip (Tooltip - Extended)
+{
+|cFFAAAAAASiege|r | |cFFFFFF00Splash|r (200)|n|cff8080ffDamage: |r410-450|n|cff8080ffAttack Speed: |r2|n|cff8080ffRange: |r500
+}
+
+STRING 1557
+// Units: h02L (Young Adult Pig), Hotkey (Hotkey)
+{
+U
+}
+
+STRING 1558
+// Units: h02L (Young Adult Pig), Name (Name)
+{
+Young Adult Pig
+}
+
+STRING 1559
+// Units: h02M (Adult Pig), Tip (Tooltip - Basic)
+{
+|cffffcc00U|r - Raise Adult Pig
+}
+
+STRING 1560
+// Units: h02M (Adult Pig), Ubertip (Tooltip - Extended)
+{
+|cFFAAAAAASiege|r | |cFFFFFF00Splash|r (300)|n|cff8080ffDamage: |r888|n|cff8080ffAttack Speed: |r2|n|cff8080ffRange: |r600
+}
+
+STRING 1561
+// Units: h02M (Adult Pig), Hotkey (Hotkey)
+{
+U
+}
+
+STRING 1562
+// Units: h02M (Adult Pig), Name (Name)
+{
+Adult Pig
+}
+
+STRING 1563
+// Units: h02N (Veteran Pig), Tip (Tooltip - Basic)
+{
+|cffffcc00U|r - Raise Veteran Pig
+}
+
+STRING 1564
+// Units: h02N (Veteran Pig), Ubertip (Tooltip - Extended)
+{
+|cFFAAAAAASiege|r | |cFFFFFF00Splash|r (400)|n|cff8080ffDamage: |r1375|n|cff8080ffAttack Speed: |r2|n|cff8080ffRange: |r700
+}
+
+STRING 1565
+// Units: h02N (Veteran Pig), Hotkey (Hotkey)
+{
+U
+}
+
+STRING 1566
+// Units: h02N (Veteran Pig), Name (Name)
+{
+Veteran Pig
+}
+
+STRING 1567
+// Upgrades: R000 (Animal War Training), Name (Name)
+{
+Exotic Animal Permit
+}
+
+STRING 1568
+// Units: h02T (Baby Rabbit), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 1569
+// Upgrades: R000 (Animal War Training), Tip (Tooltip)
+{
+|cffffcc00E|r - Purchase Exotic Animal Permit
+}
+
+STRING 1571
+// Units: h02O (Baby Sheep), Tip (Tooltip - Basic)
+{
+|cffffcc00W|r - Raise Baby Sheep
+}
+
+STRING 1573
+// Units: h02O (Baby Sheep), Name (Name)
+{
+Baby Sheep
+}
+
+STRING 1574
+// Units: h02P (Adolescent Sheep), Tip (Tooltip - Basic)
+{
+|cffffcc00U|r - Raise Adolescent Sheep
+}
+
+STRING 1576
+// Units: h02P (Adolescent Sheep), Hotkey (Hotkey)
+{
+U
+}
+
+STRING 1577
+// Units: h02P (Adolescent Sheep), Name (Name)
+{
+Adolescent Sheep
+}
+
+STRING 1578
+// Abilities: A00D ([Sheep] Roar), Name (Name)
+{
+[Sheep] Roar
+}
+
+STRING 1579
+// Abilities: A00D ([Sheep] Roar), Tip (Tooltip - Normal)
+{
+Roar
+}
+
+STRING 1580
+// Abilities: A00D ([Sheep] Roar), Ubertip (Tooltip - Normal - Extended)
+{
+Gives friendly nearby units a 5% bonus to damage. |nLasts 10 seconds.
+}
+
+STRING 1581
+// Abilities: A00D ([Sheep] Roar), Tip (Tooltip - Normal)
+{
+Roar
+}
+
+STRING 1582
+// Abilities: A00D ([Sheep] Roar), Tip (Tooltip - Normal)
+{
+Roar
+}
+
+STRING 1583
+// Abilities: A00D ([Sheep] Roar), Tip (Tooltip - Normal)
+{
+Roar
+}
+
+STRING 1584
+// Abilities: A00D ([Sheep] Roar), Tip (Tooltip - Normal)
+{
+Roar
+}
+
+STRING 1585
+// Abilities: A00D ([Sheep] Roar), Ubertip (Tooltip - Normal - Extended)
+{
+Gives friendly nearby units a 10% bonus to damage. |nLasts 15 seconds.
+}
+
+STRING 1586
+// Abilities: A00D ([Sheep] Roar), Ubertip (Tooltip - Normal - Extended)
+{
+Gives friendly nearby units a 15% bonus to damage. |nLasts 20 seconds.
+}
+
+STRING 1587
+// Abilities: A00D ([Sheep] Roar), Ubertip (Tooltip - Normal - Extended)
+{
+Gives friendly nearby units a 20% bonus to damage. |nLasts 25 seconds.
+}
+
+STRING 1588
+// Abilities: A00D ([Sheep] Roar), Ubertip (Tooltip - Normal - Extended)
+{
+Gives friendly nearby units a 25% bonus to damage. |nLasts 30 seconds.
+}
+
+STRING 1589
+// Upgrades: R004 (Improved Masonry,Advanced Masonry,Imbued Masonry), Hotkey (Hotkey)
+{
+W
+}
+
+STRING 1590
+// Units: h02O (Baby Sheep), Ubertip (Tooltip - Extended)
+{
+|cff800080Spell|r|n|cff8080ffCooldown:|r 30s|n|cff8080ffAoE: |r300|n|cff8080ffAbility: |rRoar (Gives friendly nearby units a 5% bonus to damage. Lasts 10 seconds.)
+}
+
+STRING 1591
+// Units: h02P (Adolescent Sheep), Ubertip (Tooltip - Extended)
+{
+|cff800080Spell|r|n|cff8080ffCooldown:|r 30s|n|cff8080ffAoE: |r400|n|cff8080ffAbility: |rRoar (Gives friendly nearby units a 10% bonus to damage. Lasts 15 seconds.)
+}
+
+STRING 1592
+// Units: h02Q (Young Adult Sheep), Tip (Tooltip - Basic)
+{
+|cffffcc00U|r - Raise Young Adult Sheep
+}
+
+STRING 1593
+// Units: h02Q (Young Adult Sheep), Ubertip (Tooltip - Extended)
+{
+|cff800080Spell|r|n|cff8080ffCooldown:|r 30s|n|cff8080ffAoE: |r500|n|cff8080ffAbility: |rRoar (Gives friendly nearby units a 15% bonus to damage. Lasts 20 seconds.)
+}
+
+STRING 1594
+// Units: h02Q (Young Adult Sheep), Hotkey (Hotkey)
+{
+U
+}
+
+STRING 1595
+// Units: h02Q (Young Adult Sheep), Name (Name)
+{
+Young Adult Sheep
+}
+
+STRING 1596
+// Units: h02R (Adult Sheep), Tip (Tooltip - Basic)
+{
+|cffffcc00U|r - Raise Adult Sheep
+}
+
+STRING 1597
+// Units: h02R (Adult Sheep), Ubertip (Tooltip - Extended)
+{
+|cff800080Spell|r|n|cff8080ffCooldown:|r 30s|n|cff8080ffAoE: |r600|n|cff8080ffAbility: |rRoar (Gives friendly nearby units a 20% bonus to damage. Lasts 25 seconds.)
+}
+
+STRING 1598
+// Units: h02R (Adult Sheep), Hotkey (Hotkey)
+{
+U
+}
+
+STRING 1599
+// Units: h02R (Adult Sheep), Name (Name)
+{
+Adult Sheep
+}
+
+STRING 1600
+// Units: h02S (Veteran Sheep), Tip (Tooltip - Basic)
+{
+|cffffcc00U|r - Raise Veteran Sheep
+}
+
+STRING 1601
+// Units: h02S (Veteran Sheep), Ubertip (Tooltip - Extended)
+{
+|cff800080Spell|r|n|cff8080ffCooldown:|r 30s|n|cff8080ffAoE: |r700|n|cff8080ffAbility: |rRoar (Gives friendly nearby units a 25% bonus to damage. Lasts 30 seconds.)
+}
+
+STRING 1602
+// Units: h02S (Veteran Sheep), Hotkey (Hotkey)
+{
+U
+}
+
+STRING 1603
+// Units: h02S (Veteran Sheep), Name (Name)
+{
+Veteran Sheep
+}
+
+STRING 1604
+{
+|c0000cdf9You can not make farm towers outside your own area.|r
+}
+
+STRING 1605
+// Units: h02T (Baby Rabbit), Tip (Tooltip - Basic)
+{
+|cffffcc00E|r - Raise Baby Rabbit
+}
+
+STRING 1606
+// Units: h02T (Baby Rabbit), Ubertip (Tooltip - Extended)
+{
+|cFFFFFFFFNormal|r|n|cff8080ffDamage: |r39|n|cff8080ffAttack Speed: |r0.5|n|cff8080ffRange: |rMelee
+}
+
+STRING 1607
+// Units: h02T (Baby Rabbit), Name (Name)
+{
+Baby Rabbit
+}
+
+STRING 1608
+// Units: h02U (Adolescent Rabbit), Tip (Tooltip - Basic)
+{
+|cffffcc00U|r - Raise Adolescent Rabbit
+}
+
+STRING 1609
+// Units: h02U (Adolescent Rabbit), Ubertip (Tooltip - Extended)
+{
+|cFFFFFFFFNormal|r|n|cff8080ffDamage: |r115-120|n|cff8080ffAttack Speed: |r0.4|n|cff8080ffRange: |rMelee
+}
+
+STRING 1610
+// Units: h02U (Adolescent Rabbit), Hotkey (Hotkey)
+{
+U
+}
+
+STRING 1611
+// Units: h02U (Adolescent Rabbit), Name (Name)
+{
+Adolescent Rabbit
+}
+
+STRING 1612
+// Units: h02V (Young Adult Rabbit), Tip (Tooltip - Basic)
+{
+|cffffcc00U|r - Raise Young Adult Rabbit
+}
+
+STRING 1613
+// Units: h02V (Young Adult Rabbit), Ubertip (Tooltip - Extended)
+{
+|cFFFFFFFFNormal|r|n|cff8080ffDamage: |r155-160|n|cff8080ffAttack Speed: |r0.3|n|cff8080ffRange: |rMelee
+}
+
+STRING 1614
+// Units: h02V (Young Adult Rabbit), Hotkey (Hotkey)
+{
+U
+}
+
+STRING 1615
+// Units: h02V (Young Adult Rabbit), Name (Name)
+{
+Young Adult Rabbit
+}
+
+STRING 1616
+// Units: h02W (Adult Rabbit), Tip (Tooltip - Basic)
+{
+|cffffcc00U|r - Raise Adult Rabbit
+}
+
+STRING 1617
+// Units: h02W (Adult Rabbit), Ubertip (Tooltip - Extended)
+{
+|cFFFFFFFFNormal|r|n|cff8080ffDamage: |r295-300|n|cff8080ffAttack Speed: |r0.2|n|cff8080ffRange: |rMelee
+}
+
+STRING 1618
+// Units: h02W (Adult Rabbit), Hotkey (Hotkey)
+{
+U
+}
+
+STRING 1619
+// Units: h02W (Adult Rabbit), Name (Name)
+{
+Adult Rabbit
+}
+
+STRING 1620
+// Units: h02X (Veteran Rabbit), Tip (Tooltip - Basic)
+{
+|cffffcc00U|r - Raise Veteran Rabbit
+}
+
+STRING 1621
+// Units: h02X (Veteran Rabbit), Ubertip (Tooltip - Extended)
+{
+|cFFFFFFFFNormal|r|n|cff8080ffDamage: |r280-285|n|cff8080ffAttack Speed: |r0.1|n|cff8080ffRange: |rMelee
+}
+
+STRING 1622
+// Units: h02X (Veteran Rabbit), Hotkey (Hotkey)
+{
+U
+}
+
+STRING 1623
+// Units: h02X (Veteran Rabbit), Name (Name)
+{
+Veteran Rabbit
+}
+
+STRING 1624
+// Units: h02Y (Baby Chicken), Tip (Tooltip - Basic)
+{
+|cffffcc00R|r - Raise Baby Chicken
+}
+
+STRING 1625
+// Units: h02Y (Baby Chicken), Ubertip (Tooltip - Extended)
+{
+|cFFFF0000Pierce|r | |cffd45e19Multishot|r (3)|n|cff8080ffDamage: |r30|n|cff8080ffAttack Speed: |r1|n|cff8080ffRange: |r600
+}
+
+STRING 1626
+// Units: h02Y (Baby Chicken), Hotkey (Hotkey)
+{
+R
+}
+
+STRING 1627
+// Units: h02Y (Baby Chicken), Name (Name)
+{
+Baby Chicken
+}
+
+STRING 1628
+// Abilities: A01C ([Chicken] Multishot), Ubertip (Tooltip - Normal - Extended)
+{
+Allows the chicken to hit up to 3 nearby units with each attack.
+}
+
+STRING 1629
+// Abilities: A01C ([Chicken] Multishot), Name (Name)
+{
+[Chicken] Multishot
+}
+
+STRING 1630
+// Abilities: A01C ([Chicken] Multishot), Tip (Tooltip - Normal)
+{
+Multishot
+}
+
+STRING 1631
+// Abilities: A01C ([Chicken] Multishot), Tip (Tooltip - Normal)
+{
+Multishot
+}
+
+STRING 1632
+// Abilities: A01C ([Chicken] Multishot), Tip (Tooltip - Normal)
+{
+Multishot
+}
+
+STRING 1633
+// Abilities: A01C ([Chicken] Multishot), Ubertip (Tooltip - Normal - Extended)
+{
+Allows the chicken to hit up to 4 nearby units with each attack.
+}
+
+STRING 1634
+// Abilities: A01C ([Chicken] Multishot), Ubertip (Tooltip - Normal - Extended)
+{
+Allows the chicken to hit up to 5 nearby units with each attack.
+}
+
+STRING 1635
+// Upgrades: R000 (Animal War Training), Hotkey (Hotkey)
+{
+E
+}
+
+STRING 1636
+// Units: h02Z (Adolescent Chicken), Tip (Tooltip - Basic)
+{
+|cffffcc00U|r - Raise Adolescent Chicken
+}
+
+STRING 1637
+// Units: h02Z (Adolescent Chicken), Ubertip (Tooltip - Extended)
+{
+|cFFFF0000Pierce|r | |cffd45e19Multishot|r (3)|n|cff8080ffDamage: |r90|n|cff8080ffAttack Speed: |r1|n|cff8080ffRange: |r600
+}
+
+STRING 1638
+// Units: h02Z (Adolescent Chicken), Hotkey (Hotkey)
+{
+U
+}
+
+STRING 1639
+// Units: h02Z (Adolescent Chicken), Name (Name)
+{
+Adolescent Chicken
+}
+
+STRING 1640
+// Units: h030 (Young Adult Chicken), Tip (Tooltip - Basic)
+{
+|cffffcc00U|r - Raise Young Adult Chicken
+}
+
+STRING 1641
+// Units: h030 (Young Adult Chicken), Ubertip (Tooltip - Extended)
+{
+|cFFFF0000Pierce|r | |cffd45e19Multishot|r (3)|n|cff8080ffDamage: |r210|n|cff8080ffAttack Speed: |r1|n|cff8080ffRange: |r600
+}
+
+STRING 1642
+// Units: h030 (Young Adult Chicken), Hotkey (Hotkey)
+{
+U
+}
+
+STRING 1643
+// Units: h030 (Young Adult Chicken), Name (Name)
+{
+Young Adult Chicken
+}
+
+STRING 1644
+// Units: h031 (Adult Chicken), Tip (Tooltip - Basic)
+{
+|cffffcc00U|r - Raise Adult Chicken
+}
+
+STRING 1645
+// Units: h031 (Adult Chicken), Ubertip (Tooltip - Extended)
+{
+|cFFFF0000Pierce|r | |cffd45e19Multishot|r (4)|n|cff8080ffDamage: |r465-470|n|cff8080ffAttack Speed: |r1|n|cff8080ffRange: |r600
+}
+
+STRING 1646
+// Units: h031 (Adult Chicken), Hotkey (Hotkey)
+{
+U
+}
+
+STRING 1647
+// Units: h031 (Adult Chicken), Name (Name)
+{
+Adult Chicken
+}
+
+STRING 1648
+// Units: h032 (Veteran Chicken), Tip (Tooltip - Basic)
+{
+|cffffcc00U|r - Raise Veteran Chicken
+}
+
+STRING 1649
+// Units: h032 (Veteran Chicken), Ubertip (Tooltip - Extended)
+{
+|cFFFF0000Pierce|r | |cffd45e19Multishot|r (5)|n|cff8080ffDamage: |r810|n|cff8080ffAttack Speed: |r1|n|cff8080ffRange: |r600
+}
+
+STRING 1650
+// Units: h032 (Veteran Chicken), Hotkey (Hotkey)
+{
+U
+}
+
+STRING 1651
+// Units: h032 (Veteran Chicken), Name (Name)
+{
+Veteran Chicken
+}
+
+STRING 1652
+// Units: u00H (Farmer), Ubertip (Tooltip - Extended)
+{
+Summons animal towers. |cFFFFEBCDHybrid|r | |cFFFFEBCDHybrid|r
+}
+
+STRING 1653
+// Units: h033 (Baby Penguin), Tip (Tooltip - Basic)
+{
+|cffffcc00A|r - Raise Baby Penguin
+}
+
+STRING 1654
+// Units: h033 (Baby Penguin), Ubertip (Tooltip - Extended)
+{
+|cFF3399FFMagic|r | |cFFFFFF00Splash|r (250) | |cFFFF99FFSlow|r|n|cff8080ffDamage: |r350|n|cff8080ffAttack Speed: |r1.25|n|cff8080ffRange: |r800
+}
+
+STRING 1655
+// Units: h033 (Baby Penguin), Hotkey (Hotkey)
+{
+A
+}
+
+STRING 1656
+// Units: h033 (Baby Penguin), Name (Name)
+{
+Baby Penguin
+}
+
+STRING 1657
+// Units: h034 (Adolescent Penguin), Tip (Tooltip - Basic)
+{
+|cffffcc00U|r - Raise Adolescent Penguin
+}
+
+STRING 1658
+// Units: h034 (Adolescent Penguin), Ubertip (Tooltip - Extended)
+{
+|cFF3399FFMagic|r | |cFFFFFF00Splash|r (350) | |cFFFF99FFSlow|r|n|cff8080ffDamage: |r825|n|cff8080ffAttack Speed: |r1.25|n|cff8080ffRange: |r800
+}
+
+STRING 1659
+// Units: h034 (Adolescent Penguin), Hotkey (Hotkey)
+{
+U
+}
+
+STRING 1660
+// Units: h034 (Adolescent Penguin), Name (Name)
+{
+Adolescent Penguin
+}
+
+STRING 1661
+// Units: h035 (Adult Penguin), Tip (Tooltip - Basic)
+{
+|cffffcc00U|r - Raise Adult Penguin
+}
+
+STRING 1662
+// Units: h035 (Adult Penguin), Ubertip (Tooltip - Extended)
+{
+|cFF3399FFMagic|r | |cFFFFFF00Splash|r (450) | |cFFFF99FFSlow|r|n|cff8080ffDamage: |r1450|n|cff8080ffAttack Speed: |r1.25|n|cff8080ffRange: |r800
+}
+
+STRING 1663
+// Units: h035 (Adult Penguin), Hotkey (Hotkey)
+{
+U
+}
+
+STRING 1664
+// Units: h035 (Adult Penguin), Name (Name)
+{
+Adult Penguin
+}
+
+STRING 1666
+// Units: h036 (Baby Lizard), Name (Name)
+{
+Baby Lizard
+}
+
+STRING 1667
+// Units: h036 (Baby Lizard), Tip (Tooltip - Basic)
+{
+|cffffcc00S|r - Raise Baby Lizard
+}
+
+STRING 1668
+// Units: h036 (Baby Lizard), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r | |cFF00FFFFBounce|r (2)|n|cff8080ffDamage: |r315|n|cff8080ffAttack Speed: |r0.7|n|cff8080ffRange: |r600
+}
+
+STRING 1669
+// Units: h036 (Baby Lizard), Hotkey (Hotkey)
+{
+F
+}
+
+STRING 1670
+// Units: h037 (Adolescent Lizard), Name (Name)
+{
+Adolescent Lizard
+}
+
+STRING 1671
+// Units: h037 (Adolescent Lizard), Tip (Tooltip - Basic)
+{
+|cffffcc00U|r - Raise Adolescent Lizard
+}
+
+STRING 1672
+// Units: h037 (Adolescent Lizard), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r | |cFF00FFFFBounce|r (3)|n|cff8080ffDamage: |r630|n|cff8080ffAttack Speed: |r0.6|n|cff8080ffRange: |r600
+}
+
+STRING 1673
+// Units: h037 (Adolescent Lizard), Hotkey (Hotkey)
+{
+U
+}
+
+STRING 1674
+// Units: h038 (Adult Lizard), Name (Name)
+{
+Adult Lizard
+}
+
+STRING 1675
+// Units: h038 (Adult Lizard), Tip (Tooltip - Basic)
+{
+|cffffcc00U|r - Raise Adult Lizard
+}
+
+STRING 1676
+// Units: h038 (Adult Lizard), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r | |cFF00FFFFBounce|r (4)|n|cff8080ffDamage: |r915|n|cff8080ffAttack Speed: |r0.5|n|cff8080ffRange: |r600
+}
+
+STRING 1677
+// Units: h038 (Adult Lizard), Hotkey (Hotkey)
+{
+U
+}
+
+STRING 1678
+// Upgrades: R000 (Animal War Training), Ubertip (Tooltip - Extended)
+{
+Allows ownership of penguins and lizards.
+}
+
+STRING 1679
+{
+|c0000cdf9You can not make farm towers outside your own area.|r
+}
+
+STRING 1680
+{
+|c0000cdf9You can not make farm towers outside your own area.|r
+}
+
+STRING 1681
+{
+|c0000cdf9You can not make farm towers outside your own area.|r
+}
+
+STRING 1682
+{
+|c0000cdf9You can not make farm towers outside your own area.|r
+}
+
+STRING 1683
+{
+|c0000cdf9You can not make farm towers outside your own area.|r
+}
+
+STRING 1684
+{
+|c0000cdf9You can not make farm towers outside your own area.|r
+}
+
+STRING 1685
+{
+|c0000cdf9You can not make farm towers outside your own area.|r
+}
+
+STRING 1686
+{
+|c0000cdf9You can not make farm towers outside your own area.|r
+}
+
+STRING 1688
+// Abilities: A01D (Air Frost), Name (Name)
+{
+Air Frost
+}
+
+STRING 1689
+{
+|cff8080ffVacant#0001|r
+}
+
+STRING 1690
+// Units: o00K (Gatekeeper), Ubertip (Tooltip - Extended)
+{
+|cFF3399FFMagic|r | |cFFFFFF00Splash|r (450) | |cFFFF99FFSlow|r|n|cff8080ffDamage: |r1500|n|cff8080ffAttack Speed: |r3|n|cff8080ffRange: |rMelee
+}
+
+STRING 1691
+// Units: h01Z (Dire Wolf), Ubertip (Tooltip - Extended)
+{
+|cFFFFFFFFNormal|r | |cff6f2583Cleave|r|n|cff8080ffDamage: |r190|n|cff8080ffAttack Speed: |r0.33|n|cff8080ffRange: |rMelee|n|cff8080ffAbility: |rCleave (20%, 200 AoE)|n|cff8080ffAbility: |rMinibash (5%, 0.2s)
+}
+
+STRING 1692
+// Units: h020 (Shadow Wolf), Ubertip (Tooltip - Extended)
+{
+|cFFFFFFFFNormal|r | |cff6f2583Cleave|r|n|cff8080ffDamage: |r140|n|cff8080ffAttack Speed: |r0.1|n|cff8080ffRange: |rMelee|n|cff8080ffAbility: |rCleave (50%, 300 AoE)|n|cff8080ffAbility: |rMinibash (5%, 0.3s)|n|cff8080ffAbility: |rCritical Strike (5%, 2.5x)
+}
+
+STRING 1693
+// Abilities: A00S ([Summons] Minibash 2), Ubertip (Tooltip - Normal - Extended)
+{
+Gives a 5% chance that an attack will stun an opponent for 0.2 seconds.
+}
+
+STRING 1694
+// Abilities: A00T ([Summons] Minibash 3), Ubertip (Tooltip - Normal - Extended)
+{
+Gives a 5% chance that an attack will stun an opponent for 0.3 seconds.
+}
+
+STRING 1699
+// Units: u00A (Random), Ubertip (Tooltip - Extended)
+{
+Gives you a random builder.|N|N|cffffff00Gives 25 bonus gold.|r
+}
+
+STRING 1700
+// Units: u00D (Hybrid), Ubertip (Tooltip - Extended)
+{
+Gives you a builder with a random tower from each tier.|n|n|cffffff00Gives 25 bonus gold.|r|n|n|cff008000Select again to reroll.|r|n|n|cffff0000Disables first builder if selected as a second race.|r Farmer is the only exception.
+}
+
+STRING 1701
+// Abilities: A007 ([Storm] Rain of Fire), Name (Name)
+{
+[Storm] Rain of Fire
+}
+
+STRING 1702
+// Abilities: A007 ([Storm] Rain of Fire), Tip (Tooltip - Normal)
+{
+Rain of Fire
+}
+
+STRING 1703
+// Abilities: A01E ([Storm] Blizzard), Name (Name)
+{
+[Storm] Blizzard
+}
+
+STRING 1704
+// Abilities: A01G ([Storm] Monsoon), Name (Name)
+{
+[Storm] Monsoon
+}
+
+STRING 1706
+// Units: h039 (Stormbringer), Tip (Tooltip - Basic)
+{
+|cffffcc00F|r - Build Stormbringer
+}
+
+STRING 1707
+// Units: h039 (Stormbringer), Hotkey (Hotkey)
+{
+F
+}
+
+STRING 1708
+// Units: h039 (Stormbringer), Name (Name)
+{
+Stormbringer
+}
+
+STRING 1709
+// Abilities: A01I ([Storm] Stormbringer), Name (Name)
+{
+[Storm] Stormbringer
+}
+
+STRING 1711
+// Units: u00I ([Spell] Dummy), Name (Name)
+{
+[Spell] Dummy
+}
+
+STRING 1712
+// Abilities: A010 ([Heaven] Denied Entry), Name (Name)
+{
+[Heaven] Denied Entry
+}
+
+STRING 1713
+// Units: h039 (Stormbringer), Ubertip (Tooltip - Extended)
+{
+|cFF00FF00Chaos|r | |cFFDC143CSingle Target|r|n|cff8080ffDamage: |r1250|n|cff8080ffAttack Speed: |r0.2|n|cff8080ffRange: |r1000|n|cff8080ffAbility: |rStormbringer (Summons a small storm every fifth attack.)
+}
+
+STRING 1714
+// Abilities: A01I ([Storm] Stormbringer), Ubertip (Tooltip - Normal - Extended)
+{
+Summons a small storm every fifth attack.
+}
+
+STRING 1715
+// Abilities: A01I ([Storm] Stormbringer), Tip (Tooltip - Normal)
+{
+Stormbringer
+}
+
