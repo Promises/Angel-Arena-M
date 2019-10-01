@@ -59,3 +59,16 @@ typings/
 
 # next.js build output
 .next
+
+
+.DS_Store
+.idea
+/units.json
+/src
+/target
+/node_modules
+/package-lock.json
+/settings.bat
+/app/src/Generated/*
+/config/warcraft.json
+/maps/map/Units
